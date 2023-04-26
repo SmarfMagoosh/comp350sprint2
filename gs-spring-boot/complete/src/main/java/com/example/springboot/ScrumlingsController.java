@@ -10,4 +10,7 @@ public class ScrumlingsController {
     public String index() {
         return "hello world";
     }
+
+    
+
 }
