@@ -27,4 +27,7 @@ public class ScrumlingsController {
     public String index() {
         return renderTemplate("home.html");
     }
+
+    
+
 }
