@@ -9,6 +9,7 @@ function App() {
       <NavbarComp/>
     </div>
   );
+
 }
 
 export default App;
