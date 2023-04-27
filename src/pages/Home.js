@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Todos from "../component/todos";
-import AddTodo from "../component/AddTodo";
+
+
 import "../pages/Home.css";
 import Search from '../component/Search';
 import SearchBar from '../component/SearchBar';
