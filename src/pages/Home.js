@@ -12,10 +12,7 @@ const courses = [
     { id: '42345', name: 'Course Four' },
 ];
 
-
 class Home extends Component {
-
-
   // Create a default state of this component
   constructor() {
     super();
@@ -28,7 +25,6 @@ class Home extends Component {
     return (
       <div className="Home">
         <h1 class = "pad">Scheduler Application </h1>
-
 
         <Search />
 
