@@ -5,8 +5,6 @@ import "../pages/Home.css";
 import Search from '../component/Search';
 import SearchBar from '../component/SearchBar';
 
-
-
 const courses = [
     { id: '12345', name: 'Course One' },
     { id: '22345', name: 'Course Two' },
