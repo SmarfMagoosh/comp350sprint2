@@ -4,6 +4,7 @@ import AddTodo from "../component/AddTodo";
 import "../pages/Home.css";
 import Search from '../component/Search';
 import SearchBar from '../component/SearchBar';
+import Dropdown from '../component/Dropdown';
 
 const courses = [
     { id: '12345', name: 'Course One' },
@@ -25,7 +26,7 @@ class Home extends Component {
     return (
       <div className="Home">
         <h1 class = "pad">Scheduler Application </h1>
-
+        <Dropdown/>
         <Search />
 
        <SearchBar />
