@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import "./About.css";
+import Card from '../component/Card';
+
 //import croppedprofile from "../assets/croppedprofile.jpg";
 
 export default class About extends Component {
@@ -7,26 +9,19 @@ export default class About extends Component {
     return (
       <div>
         <div>
-    <div class="split left">
-      <div className="centered">
-        <img
-          className="profile_image"
-          // Image goes here
-          alt="Pic"
-          // src = {croppedprofile}
-          >
 
-          </img>
+      <div className="centered">
       </div>
-    </div>
-    <div className="split right">
      <div className="centered">
-	        <div className="name_title">VIEW</div>
-        <div className="brief_description">
-          show stuff
-        </div>
+	        <div className="name_title">My Schedules</div>
+
+          <Card
+              title="Schedule Title"
+              description="This is a description of the schedule"
+              deleteb="delete schedule button goes here"
+           />
+
       </div>
-    </div>
   </div>
       </div>
     )
