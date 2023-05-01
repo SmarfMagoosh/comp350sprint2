@@ -1,0 +1,7684 @@
+[{
+	"name": "Jennifer Stone",
+	"title": "Principles of Accounting Ii",
+	"code": "ACCT 202 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Jennifer Stone",
+	"title": "Principles of Accounting Ii",
+	"code": "ACCT 202 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Richard Snyder",
+	"title": "Principles of Accounting Ii",
+	"code": "ACCT 202 D",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Richard Snyder",
+	"title": "Principles of Accounting Ii",
+	"code": "ACCT 202 E",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": ["3 PM", "3:50 PM"]
+	}
+}, {
+	"name": "Michelle McFeaters",
+	"title": "Intermediate Accounting Ii",
+	"code": "ACCT 302 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": ["4 PM", "5:50 PM"],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Michelle McFeaters",
+	"title": "Intermediate Accounting Ii",
+	"code": "ACCT 302 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": ["4 PM", "5:50 PM"],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Jennifer Stone",
+	"title": "Acct Information Systems",
+	"code": "ACCT 321 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Richard Snyder",
+	"title": "Advanced Accounting Ii",
+	"code": "ACCT 402 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Andrea DiDonato",
+	"title": "Advanced Auditing",
+	"code": "ACCT 404 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["6:30 PM", "9 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Richard Snyder",
+	"title": "Advanced Tax Acct",
+	"code": "ACCT 406 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Michelle McFeaters",
+	"title": "Contemp Acct Theory/Practice",
+	"code": "ACCT 410 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Kathy Rhoades",
+	"title": "Ceramics I Handbuilding",
+	"code": "ART 103 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kathy Rhoades",
+	"title": "Ceramics I Wheel",
+	"code": "ART 104 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Kathy Rhoades",
+	"title": "Ceramics I Wheel",
+	"code": "ART 104 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Glen Sanders",
+	"title": "Intro to Color Theory in Painting",
+	"code": "ART 105 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "11:15 AM"],
+		"T": [],
+		"W": ["10 AM", "11:15 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Beverly Carter",
+	"title": "Hist & Apprec of Art Ii",
+	"code": "ART 202 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Kathy Rhoades",
+	"title": "Ceramics Ii",
+	"code": "ART 207 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["3 PM", "5:30 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Chandler Brutscher",
+	"title": "Gallery Studies",
+	"code": "ART 320 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Natalie Heisey",
+	"title": "The Use of Art in the Classroom",
+	"code": "ART 321 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["4 PM", "4:50 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "James Clem",
+	"title": "Intro to Stars/Galaxies/Cosmology",
+	"code": "ASTR 207 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "James Clem",
+	"title": "Intro to Stars/Galaxies/Cosmology",
+	"code": "ASTR 207 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Jan Dudt",
+	"title": "General Biology Ii",
+	"code": "BIOL 102 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Jan Dudt",
+	"title": "General Biology Ii",
+	"code": "BIOL 102 B",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Stephen Jenkins",
+	"title": "Laboratory",
+	"code": "BIOL 102 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["2 PM", "4:59 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Joy Strain",
+	"title": "Laboratory",
+	"code": "BIOL 102 M",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "12:59 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Jan Dudt",
+	"title": "Laboratory",
+	"code": "BIOL 102 N",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "5:29 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Joy Strain",
+	"title": "Laboratory",
+	"code": "BIOL 102 O",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["2:30 PM", "5:29 PM"],
+		"F": []
+	}
+}, {
+	"name": "Tracy Farone",
+	"title": "Study: Intro to Biology Health",
+	"code": "BIOL 190 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["1 PM", "2:59 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Kristina Pazehoski",
+	"title": "Cell Biology",
+	"code": "BIOL 234 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Lisa Antoszewski",
+	"title": "Laboratory",
+	"code": "BIOL 234 M",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["10:05 AM", "12:59 PM"],
+		"F": []
+	}
+}, {
+	"name": "Brian Yowler",
+	"title": "Laboratory",
+	"code": "BIOL 234 N",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "5:30 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Brian Yowler",
+	"title": "Laboratory",
+	"code": "BIOL 234 O",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["2:30 PM", "5:30 PM"],
+		"F": []
+	}
+}, {
+	"name": "Tracy Farone",
+	"title": "Zoonotic Disease and Public Health",
+	"code": "BIOL 310 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Tracy Farone",
+	"title": "Laboratory",
+	"code": "BIOL 310 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["1 PM", "2:59 PM"]
+	}
+}, {
+	"name": "Darren Wood",
+	"title": "Conservation/Wildlife Biology",
+	"code": "BIOL 320 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Darren Wood",
+	"title": "Laboratory",
+	"code": "BIOL 320 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["2 PM", "4:59 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Lisa Antoszewski",
+	"title": "The Biology of Cancer",
+	"code": "BIOL 322 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Jan Dudt",
+	"title": "Evolutionary Biology",
+	"code": "BIOL 326 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Kristina Pazehoski",
+	"title": "Biochemistry For Biology",
+	"code": "BIOL 334 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Tracy Farone",
+	"title": "Human/Mammalian Physiology",
+	"code": "BIOL 346 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Lisa Antoszewski",
+	"title": "Laboratory",
+	"code": "BIOL 346 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["3 PM", "4:59 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Tracy Farone",
+	"title": "Laboratory",
+	"code": "BIOL 346 M",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["3 PM", "4:59 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Stephen Jenkins",
+	"title": "Contemporary Topics",
+	"code": "BIOL 372 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "1:50 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Brian Yowler",
+	"title": "Seminar in Biology",
+	"code": "BIOL 488 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Lisa Antoszewski",
+	"title": "Seminar in Biology",
+	"code": "BIOL 488 B",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["2 PM", "2:50 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Timothy Homan",
+	"title": "General Chemistry Ii",
+	"code": "CHEM 112 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Charles Kriley",
+	"title": "General Chemistry Ii",
+	"code": "CHEM 112 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Charles Kriley",
+	"title": "General Chemistry Ii Lab",
+	"code": "CHEM 114 L",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["2 PM", "4:59 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Holly Guevara",
+	"title": "General Chemistry Ii Lab",
+	"code": "CHEM 114 M",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["10:05 AM", "12:59 PM"],
+		"F": []
+	}
+}, {
+	"name": "Charles Kriley",
+	"title": "General Chemistry Ii Lab",
+	"code": "CHEM 114 N",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["2:30 PM", "5:29 PM"],
+		"F": []
+	}
+}, {
+	"name": "Charles Kriley",
+	"title": "Desc Inorg/Bioinorg Chemistry",
+	"code": "CHEM 231 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "10:55 AM"],
+		"W": [],
+		"R": ["10:05 AM", "10:55 AM"],
+		"F": []
+	}
+}, {
+	"name": "Susan Cramer",
+	"title": "Organic Chemistry Ii",
+	"code": "CHEM 242 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Susan Cramer",
+	"title": "Organic Chemistry Ii",
+	"code": "CHEM 242 B",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Susan Cramer",
+	"title": "Laboratory",
+	"code": "CHEM 242 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["2 PM", "4:59 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Susan Cramer",
+	"title": "Laboratory",
+	"code": "CHEM 242 M",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "5:30 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Timothy Homan",
+	"title": "Laboratory",
+	"code": "CHEM 242 N",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["2 PM", "4:59 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Timothy Homan",
+	"title": "Laboratory",
+	"code": "CHEM 242 O",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["2:30 PM", "5:30 PM"],
+		"F": []
+	}
+}, {
+	"name": "Michael Falcetta",
+	"title": "Introduction to Molecular Modeling",
+	"code": "CHEM 245 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["2:30 PM", "4:30 PM"],
+		"F": []
+	}
+}, {
+	"name": "Michael Falcetta",
+	"title": "Physical Chem of Biological Systems",
+	"code": "CHEM 342 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Michael Falcetta",
+	"title": "Laboratory",
+	"code": "CHEM 342 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["2 PM", "5 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Joseph Augspurger",
+	"title": "Macroscopic Physical Chemistry:",
+	"code": "CHEM 346 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Joseph Augspurger",
+	"title": "Laboratory",
+	"code": "CHEM 346 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["2 PM", "4:59 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Kevin Shaw",
+	"title": "Biochemistry Ii",
+	"code": "CHEM 352 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Kevin Shaw",
+	"title": "Laboratory",
+	"code": "CHEM 352 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["1 PM", "4:59 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Ven Ney Wong",
+	"title": "Instrumental Analysis",
+	"code": "CHEM 406 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Ven Ney Wong",
+	"title": "Laboratory",
+	"code": "CHEM 406 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "5:30 PM"],
+		"W": [],
+		"R": ["2:30 PM", "5:30 PM"],
+		"F": []
+	}
+}, {
+	"name": "Holly Guevara",
+	"title": "Advanced Molecular Spectroscopy",
+	"code": "CHEM 453 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Holly Guevara",
+	"title": "Advanced Synthesis Laboratory",
+	"code": "CHEM 458 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["1 PM", "3:59 PM"],
+		"T": [],
+		"W": ["1 PM", "3:59 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Timothy Homan",
+	"title": "Adv Organic Chem",
+	"code": "CHEM 466 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "10:55 AM"],
+		"W": [],
+		"R": ["10:05 AM", "10:55 AM"],
+		"F": []
+	}
+}, {
+	"name": "Kevin Shaw",
+	"title": "Biochemistry Seminar",
+	"code": "CHEM 487 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Kevin Shaw",
+	"title": "Biochemistry Seminar",
+	"code": "CHEM 487 B",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "David Robbins",
+	"title": "Christ and Culture",
+	"code": "CMIN 228 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8:35 AM", "9:50 AM"],
+		"T": [],
+		"W": ["8:35 AM", "9:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Donald Shepson",
+	"title": "Spiritual Formation",
+	"code": "CMIN 238 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Donald Shepson",
+	"title": "Discipleship and Evangelism",
+	"code": "CMIN 248 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["4 PM", "5:15 PM"],
+		"W": [],
+		"R": ["4 PM", "5:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "David Robbins",
+	"title": "Leadership/Ministry Administration",
+	"code": "CMIN 321 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "12:15 PM"],
+		"T": [],
+		"W": ["11 AM", "12:15 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Donald Shepson",
+	"title": "Worship and Prayer Ministry",
+	"code": "CMIN 361 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Betsy Craig",
+	"title": "Public Speaking & Rhetoric",
+	"code": "COMM 104 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Jason Edwards",
+	"title": "Public Speaking & Rhetoric",
+	"code": "COMM 104 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Gregory Bandy",
+	"title": "Principles of Media",
+	"code": "COMM 110 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Patricia Pritchard",
+	"title": "Intercultural Communication",
+	"code": "COMM 225 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Gregory Bandy",
+	"title": "Media Criticism",
+	"code": "COMM 240 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Ryan Hammond",
+	"title": "Digital Citizenship",
+	"code": "COMM 250 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["6:30 PM", "9 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Kimberly Miller",
+	"title": "Developing Characters",
+	"code": "COMM 272 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Patricia Pritchard",
+	"title": "Interpersonal Communication",
+	"code": "COMM 304 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Kimberly Miller",
+	"title": "Christian Faith & Cinema",
+	"code": "COMM 352 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kimberly Miller",
+	"title": "Screenwriting",
+	"code": "COMM 359 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Gregory Bandy",
+	"title": "Documentary Film",
+	"code": "COMM 388 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Gregory Bandy",
+	"title": "Special Events and Promotions",
+	"code": "COMM 405 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "David Valentine",
+	"title": "Comp Programming I",
+	"code": "COMP 141 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Brian Dellinger",
+	"title": "Ethics Faith and Conscious Mind",
+	"code": "COMP 205 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Brian Dellinger",
+	"title": "Ethics Faith and Conscious Mind",
+	"code": "COMP 205 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Jonathan Hutchins",
+	"title": "Comp Programming Ii",
+	"code": "COMP 220 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Jonathan Hutchins",
+	"title": "Comp Programming Ii",
+	"code": "COMP 220 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "David Valentine",
+	"title": "Parallel Computing",
+	"code": "COMP 233 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Lory Al Moakar",
+	"title": "Database Mgt Systems",
+	"code": "COMP 244 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Brian Dellinger",
+	"title": "Automata Theory",
+	"code": "COMP 314 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Brian Dickinson",
+	"title": "Operating Systems",
+	"code": "COMP 340 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Lory Al Moakar",
+	"title": "Data Comm & Networking",
+	"code": "COMP 342 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Lory Al Moakar",
+	"title": "Data Comm & Networking",
+	"code": "COMP 342 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "David Valentine",
+	"title": "Software Engineering",
+	"code": "COMP 350 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "David Valentine",
+	"title": "Software Engineering",
+	"code": "COMP 350 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Jonathan Hutchins",
+	"title": "Introduction to Machine Learning",
+	"code": "COMP 435 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Brian Dickinson",
+	"title": "Programming Languages",
+	"code": "COMP 443 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Brian Dickinson",
+	"title": "Programming Languages",
+	"code": "COMP 443 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Jonathan Hutchins",
+	"title": "Intro to Artificial Intelligence",
+	"code": "COMP 445 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": ["3 PM", "3:50 PM"]
+	}
+}, {
+	"name": "Brian Dellinger",
+	"title": "3D Game Design & Development",
+	"code": "COMP 446 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Britton Wolfe",
+	"title": "Senior Project Ii",
+	"code": "COMP 452 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Britton Wolfe",
+	"title": "Senior Project Ii",
+	"code": "COMP 452 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Lory Al Moakar",
+	"title": "Advanced Security",
+	"code": "COMP 475 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Nathanael Mucha",
+	"title": "Intro to Visual Comm Design",
+	"code": "DESI 101 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Alexander Catanese",
+	"title": "Design Thinking",
+	"code": "DESI 102 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["6:30 PM", "9 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Nathanael Mucha",
+	"title": "Visual Communication Design Ii",
+	"code": "DESI 202 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Nathanael Mucha",
+	"title": "Interactive Design and User Exp",
+	"code": "DESI 210 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["6:30 PM", "9 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Nathanael Mucha",
+	"title": "Study: Visual Comm Design Iii",
+	"code": "DESI 390 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Caleb Fuller",
+	"title": "Prin of Economics-Micro",
+	"code": "ECON 101 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Caleb Fuller",
+	"title": "Prin of Economics-Micro",
+	"code": "ECON 101 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Jeffrey Herbener",
+	"title": "Prin of Economics-Macro",
+	"code": "ECON 102 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Jeffrey Herbener",
+	"title": "Prin of Economics-Macro",
+	"code": "ECON 102 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Shawn Ritenour",
+	"title": "Foundations of Economics",
+	"code": "ECON 120 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Shawn Ritenour",
+	"title": "Foundations of Economics",
+	"code": "ECON 120 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": ["3 PM", "3:50 PM"]
+	}
+}, {
+	"name": "Shawn Ritenour",
+	"title": "Intermediate Macroeconomics",
+	"code": "ECON 302 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Shawn Ritenour",
+	"title": "Industrial Organization",
+	"code": "ECON 310 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Caleb Fuller",
+	"title": "Introduction to Econometrics",
+	"code": "ECON 342 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Caleb Fuller",
+	"title": "Law and Economics",
+	"code": "ECON 402 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["6:30 PM", "9 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Jeffrey Herbener",
+	"title": "Financial Markets and Institutions",
+	"code": "ECON 456 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Jarrett Chapman",
+	"title": "Intro to the Teaching Profession",
+	"code": "EDUC 202 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Gina Blackburn",
+	"title": "Culturally Relevant Pedagogy",
+	"code": "EDUC 203 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Gina Blackburn",
+	"title": "Culturally Relevant Pedagogy",
+	"code": "EDUC 203 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Samantha Fecich",
+	"title": "Technologies of Instruction",
+	"code": "EDUC 204 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Samantha Fecich",
+	"title": "Technologies of Instruction",
+	"code": "EDUC 204 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Stacy Paparone",
+	"title": "Middle Level Music Pedagogy",
+	"code": "EDUC 214 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Sandra Herald",
+	"title": "Adolescent Literature",
+	"code": "EDUC 228 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Gina Blackburn",
+	"title": "Study: Cultural Diversity/Advocacy",
+	"code": "EDUC 290 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "10:55 AM"],
+		"W": [],
+		"R": ["10:05 AM", "10:55 AM"],
+		"F": []
+	}
+}, {
+	"name": "Jarrett Chapman",
+	"title": "Study: Capturing the Covid-19 Gap",
+	"code": "EDUC 290 B",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:40 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "John Stephens",
+	"title": "Basic Prin Curriculum/Instruction",
+	"code": "EDUC 305 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Gina Blackburn",
+	"title": "Sec English Meth/Field Ex",
+	"code": "EDUC 308 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["3 PM", "4:40 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Christopher Omasits",
+	"title": "Sec Science Meth/Field Ex",
+	"code": "EDUC 309 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["6:30 PM", "8:10 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Daniel Nemeth",
+	"title": "Sec Social Science Meth/Field Ex",
+	"code": "EDUC 310 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["6:30 PM", "8:10 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Stacy Paparone",
+	"title": "Secondary Instrument Musi Pedagogy",
+	"code": "EDUC 314 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "10:55 AM"],
+		"W": [],
+		"R": ["10:05 AM", "10:55 AM"],
+		"F": []
+	}
+}, {
+	"name": "Natalie Heisey",
+	"title": "Teaching Primary & Elem Literacy",
+	"code": "EDUC 323 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Susan Dreves",
+	"title": "Teaching Elem Social Sciences",
+	"code": "EDUC 324 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Susan Dreves",
+	"title": "Teaching Elem Science/Health",
+	"code": "EDUC 325 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Constance Nichols",
+	"title": "Teaching Upper Elem/Middle Literacy",
+	"code": "EDUC 326 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Constance Nichols",
+	"title": "Teaching Upper Elem/Middle Literacy",
+	"code": "EDUC 326 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Jolene Munson",
+	"title": "Teaching Elem Math",
+	"code": "EDUC 327 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Natalie Heisey",
+	"title": "Children'S Literature & Language",
+	"code": "EDUC 328 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Elizabeth Rupnik",
+	"title": "Early Childhood Curr & Instruct",
+	"code": "EDUC 342 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Constance Nichols",
+	"title": "Trends/Issues in Early Child Educ",
+	"code": "EDUC 343 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Jarrett Chapman",
+	"title": "Education For the Mission Field",
+	"code": "EDUC 350 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "John Stephens",
+	"title": "Student Teaching-Secondary",
+	"code": "EDUC 431 A",
+	"term": "S21",
+	"credits": 16,
+	"time": {
+		"M": ["4:30 PM", "6 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Stacy Paparone",
+	"title": "Student Teaching-Elem Music",
+	"code": "EDUC 435 A",
+	"term": "S21",
+	"credits": 8,
+	"time": {
+		"M": ["4 PM", "4:50 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Stacy Paparone",
+	"title": "Student Teaching-Secondary Music",
+	"code": "EDUC 437 A",
+	"term": "S21",
+	"credits": 8,
+	"time": {
+		"M": ["4:50 PM", "5:40 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Linda Culbertson",
+	"title": "Elem Student Tchg-Primary",
+	"code": "EDUC 441 A",
+	"term": "S21",
+	"credits": 8,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Linda Culbertson",
+	"title": "Student Teaching Middle Level I",
+	"code": "EDUC 442 A",
+	"term": "S21",
+	"credits": 8,
+	"time": {
+		"M": ["3 PM", "5 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Linda Culbertson",
+	"title": "Seminar: Issues in Education",
+	"code": "EDUC 488 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Linda Culbertson",
+	"title": "Seminar: Issues in Education",
+	"code": "EDUC 488 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "James Brooks",
+	"title": "Linear Circuits Ii",
+	"code": "ELEE 202 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Timothy Mohr",
+	"title": "Digital Logic Design",
+	"code": "ELEE 204 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Timothy Mohr",
+	"title": "Electrical Engineering",
+	"code": "ELEE 210 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Timothy Mohr",
+	"title": "Laboratory",
+	"code": "ELEE 210 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["2 PM", "4 PM"]
+	}
+}, {
+	"name": "Timothy Mohr",
+	"title": "Digital Circuits Laboratory",
+	"code": "ELEE 252 L",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["2 PM", "4:50 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Alan Christman",
+	"title": "Electronics Ii",
+	"code": "ELEE 302 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Alan Christman",
+	"title": "Electromagnetic Theory",
+	"code": "ELEE 304 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Luke Rumbaugh",
+	"title": "Microcontrollers With  Robotic Apps",
+	"code": "ELEE 310 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Luke Rumbaugh",
+	"title": "Embedded Syst Lab",
+	"code": "ELEE 310 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "4:30 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Luke Rumbaugh",
+	"title": "Signal Analysis",
+	"code": "ELEE 321 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Alan Christman",
+	"title": "Intermediate Laboratory Ii",
+	"code": "ELEE 352 L",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["2 PM", "4:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "James Brooks",
+	"title": "Design of Control Syst",
+	"code": "ELEE 422 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Luke Rumbaugh",
+	"title": "Communication Systems Ii",
+	"code": "ELEE 432 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Myron Bright",
+	"title": "Parallel Computer Architecture",
+	"code": "ELEE 442 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Luke Rumbaugh",
+	"title": "Capstone Design Project Ii",
+	"code": "ELEE 452 L",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["3 PM", "4:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "James Brooks",
+	"title": "Capstone Design Project Ii",
+	"code": "ELEE 452 M",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["3 PM", "4:50 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Kristen Waha",
+	"title": "Engl Lit Survey and Lit Studies Ii",
+	"code": "ENGL 202 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Kristen Waha",
+	"title": "Engl Lit Survey and Lit Studies Ii",
+	"code": "ENGL 202 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "H Messer",
+	"title": "Amer Lit Survey Ii",
+	"code": "ENGL 204 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "H Messer",
+	"title": "Amer Lit Survey Ii",
+	"code": "ENGL 204 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kristen Waha",
+	"title": "World Lit:Africa/Latin America",
+	"code": "ENGL 206 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Janice Brown",
+	"title": "20Th C. English Novel",
+	"code": "ENGL 243 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "H Messer",
+	"title": "20Th C. American Novel",
+	"code": "ENGL 246 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Eric Potter",
+	"title": "Modern Poetry",
+	"code": "ENGL 262 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": ["3 PM", "3:50 PM"]
+	}
+}, {
+	"name": "Andrew Harvey",
+	"title": "Eng Renaiss:Spencer to Milton",
+	"code": "ENGL 306 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Kristen Waha",
+	"title": "Victorian Literature",
+	"code": "ENGL 314 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Eric Potter",
+	"title": "American Renaissance",
+	"code": "ENGL 318 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Harvey",
+	"title": "Shakespeare Ii",
+	"code": "ENGL 352 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["3 PM", "4:59 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Eric Potter",
+	"title": "Senior Capstone",
+	"code": "ENGL 485 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Myron Bright",
+	"title": "Intro to Engineering",
+	"code": "ENGR 156 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Myron Bright",
+	"title": "Intro to Engineering",
+	"code": "ENGR 156 B",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Alan Christman",
+	"title": "Mathematical Methods in Engineering",
+	"code": "ENGR 274 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Myron Bright",
+	"title": "Ethics in Engineering and Robotics",
+	"code": "ENGR 301 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["6:30 PM", "9 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "James Brooks",
+	"title": "Study: Systems Simulation",
+	"code": "ENGR 390 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Richard Savage",
+	"title": "Study: Bioengineering/Mems",
+	"code": "ENGR 390 C",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Erik Bardy",
+	"title": "Engineering Economy",
+	"code": "ENGR 402 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["6:30 PM", "9 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Joseph Augspurger",
+	"title": "Chemical Reaction Engineering",
+	"code": "ENGR 420 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Yvonne English",
+	"title": "Lean Launchpad",
+	"code": "ENTR 201 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["6:30 PM", "9 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Timothy Sweet",
+	"title": "Sales in the Startup",
+	"code": "ENTR 302 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Kenneth Smith",
+	"title": "Law For Entreprenuers",
+	"code": "ENTR 303 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Timothy Sweet",
+	"title": "Entrepreneurship: Mission of Church",
+	"code": "ENTR 314 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Timothy Sweet",
+	"title": "Search Engine Optimization",
+	"code": "ENTR 330 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Yvonne English",
+	"title": "Digital Entrepreneurship",
+	"code": "ENTR 409 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kenneth Smith",
+	"title": "Family, Franchise, & Small Busa Mgt",
+	"code": "ENTR 423 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Kenneth Smith",
+	"title": "Business Planning",
+	"code": "ENTR 466 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kenneth Smith",
+	"title": "Corporate Innovation",
+	"code": "ENTR 467 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Timothy Sweet",
+	"title": "Seminar in Entrepreneurship",
+	"code": "ENTR 488 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["4 PM", "4:50 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Dana Ault",
+	"title": "Introduction to Exercise Science",
+	"code": "EXER 101 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Dana Ault",
+	"title": "Introduction to Nutrition",
+	"code": "EXER 134 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Elaine Timko",
+	"title": "Exercise and Sport Psychology",
+	"code": "EXER 203 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "James Thrasher",
+	"title": "Introduction to Sports Ministry",
+	"code": "EXER 205 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew DiDonato",
+	"title": "Personal Training",
+	"code": "EXER 221 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Melissa Lamie",
+	"title": "Phys Ed For Elementary Educators",
+	"code": "EXER 228 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Jeffrey Buxton",
+	"title": "Intro to Exercise Prog Design",
+	"code": "EXER 230 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Adam Cook",
+	"title": "Facility Management",
+	"code": "EXER 235 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "10:55 AM"],
+		"W": [],
+		"R": ["10:05 AM", "10:55 AM"],
+		"F": []
+	}
+}, {
+	"name": "Scott Wise",
+	"title": "Introduction to Pt and Ot",
+	"code": "EXER 250 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["6:30 PM", "8:30 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Sean Severson",
+	"title": "Prevention/Care of Injuries",
+	"code": "EXER 251 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Philip Prins",
+	"title": "Physiology of Exercise",
+	"code": "EXER 256 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Philip Prins",
+	"title": "Laboratory",
+	"code": "EXER 256 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Philip Prins",
+	"title": "Laboratory",
+	"code": "EXER 256 M",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Philip Prins",
+	"title": "Laboratory",
+	"code": "EXER 256 N",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Dana Ault",
+	"title": "Anatomy and Physiology Ii",
+	"code": "EXER 258 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Dana Ault",
+	"title": "Laboratory",
+	"code": "EXER 258 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["10 AM", "11:29 AM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Jeffrey Buxton",
+	"title": "Laboratory",
+	"code": "EXER 258 M",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["11 AM", "12:29 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Philip Prins",
+	"title": "Exercise Testing",
+	"code": "EXER 304 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Leslie Fuss",
+	"title": "Basic Prin of Coaching",
+	"code": "EXER 305 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Brenda Dolan",
+	"title": "Exercise Leadership",
+	"code": "EXER 306 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["2 PM", "3:59 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Brenda Dolan",
+	"title": "Exercise Leadership",
+	"code": "EXER 306 B",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["8 AM", "9:59 AM"]
+	}
+}, {
+	"name": "Jeffrey Buxton",
+	"title": "Functional Kinesiology",
+	"code": "EXER 310 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Philip Prins",
+	"title": "Clinical Exercise Physiology",
+	"code": "EXER 312 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Dana Ault",
+	"title": "Advanced Exercise Physiology",
+	"code": "EXER 313 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Jeffrey Buxton",
+	"title": "Certified Exercise Physiologist",
+	"code": "EXER 402 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Dana Ault",
+	"title": "Prof. Certification/Seminar - Epc",
+	"code": "EXER 404 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Todd Gibson",
+	"title": "Prof. Certification/Seminar - Cscs",
+	"code": "EXER 404 B",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Jeffrey Buxton",
+	"title": "Research Practicum",
+	"code": "EXER 407 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Richard Grimm",
+	"title": "Principles of Finance",
+	"code": "FNCE 301 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Richard Grimm",
+	"title": "Principles of Finance",
+	"code": "FNCE 301 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Youhui Zhang",
+	"title": "Principles of Finance",
+	"code": "FNCE 301 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Youhui Zhang",
+	"title": "Principles of Finance",
+	"code": "FNCE 301 D",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Richard Grimm",
+	"title": "Investment Valuation",
+	"code": "FNCE 334 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Youhui Zhang",
+	"title": "Financial Modeling",
+	"code": "FNCE 341 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:30 PM"],
+		"W": [],
+		"R": ["1 PM", "2:30 PM"],
+		"F": []
+	}
+}, {
+	"name": "Youhui Zhang",
+	"title": "Financial Modeling",
+	"code": "FNCE 341 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Jeffrey Davidek",
+	"title": "Financial Planning",
+	"code": "FNCE 435 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["6:30 PM", "9 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Richard Grimm",
+	"title": "Capital Markets",
+	"code": "FNCE 436 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Rebecca Harmon",
+	"title": "Elementary French Ii",
+	"code": "FREN 102 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Rebecca Harmon",
+	"title": "Elementary French Ii",
+	"code": "FREN 102 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Kelsey Madsen",
+	"title": "Intermediate French Ii",
+	"code": "FREN 202 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Kelsey Madsen",
+	"title": "Intermediate French Ii",
+	"code": "FREN 202 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Rebecca Harmon",
+	"title": "Applied Phonetics",
+	"code": "FREN 308 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Kelsey Madsen",
+	"title": "18Th Through 21St Century Fr Lit",
+	"code": "FREN 321 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Kelsey Madsen",
+	"title": "Moments in French & Francophone His",
+	"code": "FREN 340 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Karyn Senita",
+	"title": "Aspects- Language Learning",
+	"code": "FREN 362 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Darren Wood",
+	"title": "Physical/ Environmental Geology",
+	"code": "GEOL 201 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Thomas Gordon",
+	"title": "Readings in New Test Greek Ii",
+	"code": "GREK 202 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Julie Moeller",
+	"title": "Introduction to Biblical Hebrew Ii",
+	"code": "HEBR 102 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Mitchell",
+	"title": "Freshman Seminar",
+	"code": "HIST 103 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Elizabeth Baker",
+	"title": "World History Ii",
+	"code": "HIST 144 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Jason Edwards",
+	"title": "Hist/Phil Foundations of Education",
+	"code": "HIST 204 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Gillis Harp",
+	"title": "British Hist to 1781",
+	"code": "HIST 261 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Gillis Harp",
+	"title": "History of U.S. Since 1865",
+	"code": "HIST 285 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Elizabeth Baker",
+	"title": "Study: Public History",
+	"code": "HIST 290 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Caleb Verbois",
+	"title": "Constitutional History U.S. Ii",
+	"code": "HIST 318 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Mark Graham",
+	"title": "Byzantium & Islam",
+	"code": "HIST 346 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Gillis Harp",
+	"title": "Minorities in Amer Hist",
+	"code": "HIST 357 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Mitchell",
+	"title": "Food and Feasting, West Tradition",
+	"code": "HIST 378 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Mitchell",
+	"title": "Study: History of Modern France",
+	"code": "HIST 390 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Mark Graham",
+	"title": "Senior Research Seminar",
+	"code": "HIST 400 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "4:30 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Jason Edwards",
+	"title": "Seminar in Classical & Christian Ed",
+	"code": "HIST 410 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Julie Moeller",
+	"title": "Civ/Biblical Revelation",
+	"code": "HUMA 102 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Julie Moeller",
+	"title": "Civ/Biblical Revelation",
+	"code": "HUMA 102 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "C Rine",
+	"title": "Civ/Biblical Revelation",
+	"code": "HUMA 102 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "George Campbell",
+	"title": "Civ/Biblical Revelation",
+	"code": "HUMA 102 D",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Seulgi Byun",
+	"title": "Civ/Biblical Revelation",
+	"code": "HUMA 102 E",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Seulgi Byun",
+	"title": "Civ/Biblical Revelation",
+	"code": "HUMA 102 F",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "George Campbell",
+	"title": "Civ/Biblical Revelation",
+	"code": "HUMA 102 G",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Donald Shepson",
+	"title": "Civ/Biblical Revelation",
+	"code": "HUMA 102 H",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Mitchell",
+	"title": "Western Civ: Foundations",
+	"code": "HUMA 200 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Elizabeth Baker",
+	"title": "Western Civ: Foundations",
+	"code": "HUMA 200 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Elizabeth Baker",
+	"title": "Western Civ: Foundations",
+	"code": "HUMA 200 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Caleb Verbois",
+	"title": "Western Civ: Foundations",
+	"code": "HUMA 200 D",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": ["3 PM", "3:50 PM"]
+	}
+}, {
+	"name": "Mark Graham",
+	"title": "Western Civ: Foundations",
+	"code": "HUMA 200 E",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Jason Edwards",
+	"title": "Western Civ: Foundations",
+	"code": "HUMA 200 F",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kristin Barbour",
+	"title": "Civ/Literature",
+	"code": "HUMA 202 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Kristin Barbour",
+	"title": "Civ/Literature",
+	"code": "HUMA 202 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Adam Loretto",
+	"title": "Civ/Literature",
+	"code": "HUMA 202 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Janice Brown",
+	"title": "Civ/Literature",
+	"code": "HUMA 202 D",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Adam Loretto",
+	"title": "Civ/Literature",
+	"code": "HUMA 202 E",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Melva Huebert",
+	"title": "Civ/The Arts",
+	"code": "HUMA 301 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Beverly Carter",
+	"title": "Civ/The Arts",
+	"code": "HUMA 301 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Beverly Carter",
+	"title": "Civ/The Arts",
+	"code": "HUMA 301 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Beverly Carter",
+	"title": "Civ/The Arts",
+	"code": "HUMA 301 D",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Paul Munson",
+	"title": "Civ/The Arts",
+	"code": "HUMA 301 E",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["4 PM", "5:15 PM"],
+		"T": [],
+		"W": ["4 PM", "5:15 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Paul Munson",
+	"title": "Civ/The Arts",
+	"code": "HUMA 301 F",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Paul Munson",
+	"title": "Civ/The Arts",
+	"code": "HUMA 301 G",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Paul Kemeny",
+	"title": "Christianity and Civilization",
+	"code": "HUMA 303 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Carl Trueman",
+	"title": "Christianity and Civilization",
+	"code": "HUMA 303 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Carl Trueman",
+	"title": "Christianity and Civilization",
+	"code": "HUMA 303 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Ryan West",
+	"title": "Christianity and Civilization",
+	"code": "HUMA 303 D",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Thomas Gordon",
+	"title": "Christianity and Civilization",
+	"code": "HUMA 303 E",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Thomas Gordon",
+	"title": "Christianity and Civilization",
+	"code": "HUMA 303 F",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Ryan West",
+	"title": "Christianity and Civilization",
+	"code": "HUMA 303 G",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Paul Schaefer",
+	"title": "Christianity and Civilization",
+	"code": "HUMA 303 H",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Paul Schaefer",
+	"title": "Christianity and Civilization",
+	"code": "HUMA 303 I",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Markley",
+	"title": "Global Business Issues",
+	"code": "INBS 305 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "David Butler",
+	"title": "Global Business Issues",
+	"code": "INBS 305 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "David Butler",
+	"title": "Global Business Issues",
+	"code": "INBS 305 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "David Butler",
+	"title": "Global Supply Chains",
+	"code": "INBS 417 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Mark Graham",
+	"title": "Elementary Latin Ii",
+	"code": "LATN 102 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Laura Havrilla",
+	"title": "Principles of Marketing",
+	"code": "MARK 204 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Laura Havrilla",
+	"title": "Principles of Marketing",
+	"code": "MARK 204 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Scott Powell",
+	"title": "Principles of Marketing",
+	"code": "MARK 204 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Richard Kocur",
+	"title": "Digital Marketing",
+	"code": "MARK 315 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Timothy Sweet",
+	"title": "Search Engine Optimization",
+	"code": "MARK 330 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Scott Powell",
+	"title": "Retail Management",
+	"code": "MARK 412 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Laura Havrilla",
+	"title": "Strategic Marketing",
+	"code": "MARK 415 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Laura Havrilla",
+	"title": "Strategic Marketing",
+	"code": "MARK 415 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Scott Powell",
+	"title": "Consumer Behavior",
+	"code": "MARK 419 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Scott Powell",
+	"title": "Consumer Behavior",
+	"code": "MARK 419 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Dale McIntyre",
+	"title": "College Algebra",
+	"code": "MATH 110 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Ethan Smith",
+	"title": "Pre Calculus",
+	"code": "MATH 111 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Ethan Smith",
+	"title": "Pre Calculus",
+	"code": "MATH 111 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Kelleen Bonomo",
+	"title": "Topics in Contemporary Mathematics",
+	"code": "MATH 119 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Remi Drai",
+	"title": "Business Calculus",
+	"code": "MATH 141 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": ["1 PM", "1:50 PM"],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Kelleen Bonomo",
+	"title": "Business Calculus",
+	"code": "MATH 141 B",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Kelleen Bonomo",
+	"title": "Survey Mathematics Ii",
+	"code": "MATH 152 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Kelleen Bonomo",
+	"title": "Survey Mathematics Ii",
+	"code": "MATH 152 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Steven Flanders",
+	"title": "Calculus I",
+	"code": "MATH 161 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": ["1 PM", "1:50 PM"],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Steven Flanders",
+	"title": "Calculus I",
+	"code": "MATH 161 B",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": ["1 PM", "1:50 PM"],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Gary Thompson",
+	"title": "Calculus Ii",
+	"code": "MATH 162 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": ["8:25 AM", "9:15 AM"],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Steven Flanders",
+	"title": "Calculus Ii",
+	"code": "MATH 162 B",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": ["10:05 AM", "10:55 AM"],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Gary Thompson",
+	"title": "Calculus Ii",
+	"code": "MATH 162 C",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": ["11:30 AM", "12:20 PM"],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Gary Thompson",
+	"title": "Calculus Ii",
+	"code": "MATH 162 D",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": ["1 PM", "1:50 PM"],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Eric Bancroft",
+	"title": "Applied Probablity and Linear Alg",
+	"code": "MATH 214 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": ["1 PM", "1:50 PM"],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Eric Bancroft",
+	"title": "Applied Probablity and Linear Alg",
+	"code": "MATH 214 B",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": ["2:30 PM", "3:20 PM"],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": ["3 PM", "3:50 PM"]
+	}
+}, {
+	"name": "Michael Jackson",
+	"title": "Linear Algebra",
+	"code": "MATH 222 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": ["10:05 AM", "10:55 AM"],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Michael Jackson",
+	"title": "Linear Algebra",
+	"code": "MATH 222 B",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": ["11:30 AM", "12:20 PM"],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Eric Bancroft",
+	"title": "Calculus Iii",
+	"code": "MATH 261 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": ["10:05 AM", "10:55 AM"],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Dale McIntyre",
+	"title": "Differential Equations",
+	"code": "MATH 262 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Dale McIntyre",
+	"title": "Differential Equations",
+	"code": "MATH 262 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Michael Jackson",
+	"title": "Differential Equations",
+	"code": "MATH 262 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Ethan Smith",
+	"title": "Numerical Differential Equations",
+	"code": "MATH 263 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["1 PM", "1:50 PM"],
+		"F": []
+	}
+}, {
+	"name": "Dale McIntyre",
+	"title": "College Geometry",
+	"code": "MATH 303 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Remi Drai",
+	"title": "Theory Statistics Ii",
+	"code": "MATH 332 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Ethan Smith",
+	"title": "Abstract Algebra",
+	"code": "MATH 421 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Remi Drai",
+	"title": "Seminar in Mathematics",
+	"code": "MATH 488 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "John Dixon",
+	"title": "Numerical Computing For Mech Engr",
+	"code": "MECE 120 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "John Dixon",
+	"title": "Numerical Computing For Mech Engr",
+	"code": "MECE 120 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "C Archibald",
+	"title": "Design For Manufacturing",
+	"code": "MECE 210 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": ["12 PM", "3 PM"],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "C Archibald",
+	"title": "Design For Manufacturing",
+	"code": "MECE 210 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": ["12 PM", "3 PM"],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Michelle Clauss",
+	"title": "Mechanics Ii",
+	"code": "MECE 212 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Michelle Clauss",
+	"title": "Mechanics Ii",
+	"code": "MECE 212 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Erik Bardy",
+	"title": "Thermodynamics",
+	"code": "MECE 214 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Erik Bardy",
+	"title": "Thermodynamics",
+	"code": "MECE 214 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "George Richards",
+	"title": "Mechanical Systems Lab Ii",
+	"code": "MECE 252 L",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["2 PM", "4:50 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "George Richards",
+	"title": "Mechanical Systems Lab Ii",
+	"code": "MECE 252 M",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["2 PM", "4:50 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "George Richards",
+	"title": "Mechanical Systems Lab Ii",
+	"code": "MECE 252 N",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["2 PM", "4:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Vernon Ulrich",
+	"title": "Design of Experiments",
+	"code": "MECE 304 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Blair Allison",
+	"title": "Introduction to Labview",
+	"code": "MECE 305 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Vernon Ulrich",
+	"title": "Stress Anly/Dsgn Mach Components",
+	"code": "MECE 312 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Vernon Ulrich",
+	"title": "Stress Anly/Dsgn Mach Components",
+	"code": "MECE 312 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Blair Allison",
+	"title": "System Dynamics",
+	"code": "MECE 316 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Blair Allison",
+	"title": "System Dynamics",
+	"code": "MECE 316 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Mark Fair",
+	"title": "Heat Transfer",
+	"code": "MECE 326 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Mark Fair",
+	"title": "Heat Transfer",
+	"code": "MECE 326 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Mark Fair",
+	"title": "Thermal/Fluids Laboratory",
+	"code": "MECE 352 L",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:50 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "John Dixon",
+	"title": "Thermal/Fluids Laboratory",
+	"code": "MECE 352 M",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["1 PM", "2:50 PM"],
+		"F": []
+	}
+}, {
+	"name": "John Dixon",
+	"title": "Thermal/Fluids Laboratory",
+	"code": "MECE 352 N",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["3 PM", "4:50 PM"],
+		"F": []
+	}
+}, {
+	"name": "Mark Fair",
+	"title": "Thermal/Fluids Laboratory",
+	"code": "MECE 352 O",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["3 PM", "4:50 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "George Richards",
+	"title": "Study: Propulsion & Power",
+	"code": "MECE 391 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "C Archibald",
+	"title": "Kinematics/Dynamics of Machinery",
+	"code": "MECE 410 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Erik Bardy",
+	"title": "Survey of Renewable Energy Systems",
+	"code": "MECE 416 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "C Archibald",
+	"title": "Human-Powered Vehicle Design",
+	"code": "MECE 418 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "C Archibald",
+	"title": "Laboratory",
+	"code": "MECE 418 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["1 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Vernon Ulrich",
+	"title": "Capstone Design Laboratory Ii",
+	"code": "MECE 452 M",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["4 PM", "5 PM"],
+		"W": [],
+		"R": ["4 PM", "5 PM"],
+		"F": []
+	}
+}, {
+	"name": "Vernon Ulrich",
+	"title": "Capstone Design Laboratory Ii",
+	"code": "MECE 452 N",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["3 PM", "4 PM"],
+		"T": [],
+		"W": [],
+		"R": ["3 PM", "4 PM"],
+		"F": []
+	}
+}, {
+	"name": "Vernon Ulrich",
+	"title": "Capstone Design Laboratory Ii",
+	"code": "MECE 452 O",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "3 PM"],
+		"T": [],
+		"W": ["3 PM", "4 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "John Dixon",
+	"title": "Capstone Design Laboratory Ii",
+	"code": "MECE 452 R",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["3 PM", "4 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["3 PM", "4 PM"]
+	}
+}, {
+	"name": "George Richards",
+	"title": "Capstone Design Laboratory Ii",
+	"code": "MECE 452 S",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:30 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:30 PM"],
+		"F": []
+	}
+}, {
+	"name": "- MECE Staff",
+	"title": "Capstone Design Signup",
+	"code": "MECE 452 nan",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["3 PM", "4 PM"],
+		"T": ["3 PM", "4 PM"],
+		"W": ["3 PM", "4 PM"],
+		"R": [],
+		"F": ["3 PM", "4 PM"]
+	}
+}, {
+	"name": "John Smith",
+	"title": "Business Statistics",
+	"code": "MNGT 201 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "John Smith",
+	"title": "Business Statistics",
+	"code": "MNGT 201 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "John Smith",
+	"title": "Advanced Business Statistics",
+	"code": "MNGT 202 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kenneth Carson",
+	"title": "Principles of Management",
+	"code": "MNGT 203 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "David Butler",
+	"title": "Principles of Management",
+	"code": "MNGT 203 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "John Smith",
+	"title": "Operations Management",
+	"code": "MNGT 204 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Vincent DiStasi",
+	"title": "Business Computer Applications",
+	"code": "MNGT 211 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Vincent DiStasi",
+	"title": "Business Computer Applications",
+	"code": "MNGT 211 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Wayne Biddle",
+	"title": "Business, Ethics, & Society",
+	"code": "MNGT 214 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Wayne Biddle",
+	"title": "Business, Ethics, & Society",
+	"code": "MNGT 214 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Cedric Lewis",
+	"title": "Business Law",
+	"code": "MNGT 303 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Markley",
+	"title": "Business Law",
+	"code": "MNGT 303 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Markley",
+	"title": "Business Law",
+	"code": "MNGT 303 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Markley",
+	"title": "Legal Environment of Business",
+	"code": "MNGT 304 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Todd Gibson",
+	"title": "Principles of Sports Mgt/Mkt",
+	"code": "MNGT 312 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["6:30 PM", "9 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Richard Kocur",
+	"title": "Managerial Perspectives Busa Analys",
+	"code": "MNGT 325 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Wayne Biddle",
+	"title": "Employee Benefits and Compensation",
+	"code": "MNGT 390 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Wayne Biddle",
+	"title": "Risk and Insurance",
+	"code": "MNGT 433 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kenneth Carson",
+	"title": "Advanced Human Resources",
+	"code": "MNGT 465 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "John Coyne",
+	"title": "Leadership",
+	"code": "MNGT 475 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Scott Powell",
+	"title": "Seminar in Life Management",
+	"code": "MNGT 478 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Wayne Biddle",
+	"title": "Seminar in Life Management",
+	"code": "MNGT 478 B",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Richard Kocur",
+	"title": "Bus Policy & Strategy",
+	"code": "MNGT 486 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Richard Kocur",
+	"title": "Bus Policy & Strategy",
+	"code": "MNGT 486 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Andrew Erb",
+	"title": "Concert Band For Audit",
+	"code": "MUSI 100 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["4 PM", "5:20 PM"],
+		"W": [],
+		"R": ["4 PM", "5:20 PM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Erb",
+	"title": "Concert Band For Credit",
+	"code": "MUSI 100 B",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["4 PM", "5:20 PM"],
+		"W": [],
+		"R": ["4 PM", "5:20 PM"],
+		"F": []
+	}
+}, {
+	"name": "Katherine Mueller",
+	"title": "Concert Choir For Audit",
+	"code": "MUSI 101 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": ["4 PM", "4:50 PM"]
+	}
+}, {
+	"name": "Katherine Mueller",
+	"title": "Concert Choir For Credit",
+	"code": "MUSI 101 C",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": ["4 PM", "4:50 PM"]
+	}
+}, {
+	"name": "Jeffrey Tedford",
+	"title": "Orchestra For Audit",
+	"code": "MUSI 102 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["4 PM", "5:20 PM"],
+		"T": [],
+		"W": ["4 PM", "5:20 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Jeffrey Tedford",
+	"title": "Orchestra For Credit",
+	"code": "MUSI 102 O",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["4 PM", "5:20 PM"],
+		"T": [],
+		"W": ["4 PM", "5:20 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Melva Huebert",
+	"title": "Music Theory I",
+	"code": "MUSI 103 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Joseph Hasper",
+	"title": "Music Theory Ii",
+	"code": "MUSI 104 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Katherine Mueller",
+	"title": "Aural Skills Ii",
+	"code": "MUSI 106 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:20 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:20 PM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Erb",
+	"title": "Brass Methods",
+	"code": "MUSI 107 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "10:55 AM"],
+		"W": [],
+		"R": ["10:05 AM", "10:55 AM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Erb",
+	"title": "Wind Ensemble",
+	"code": "MUSI 114 A",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["5:30 PM", "6:20 PM"],
+		"W": [],
+		"R": ["5:30 PM", "6:20 PM"],
+		"F": []
+	}
+}, {
+	"name": "Jeffrey Tedford",
+	"title": "Chamber Orchestra",
+	"code": "MUSI 115 A",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["5:30 PM", "6:20 PM"],
+		"T": [],
+		"W": ["5:30 PM", "6:20 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Katherine Mueller",
+	"title": "Touring Choir",
+	"code": "MUSI 116 A",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["5:30 PM", "6:50 PM"],
+		"W": [],
+		"R": ["5:30 PM", "6:50 PM"],
+		"F": ["5 PM", "5:50 PM"]
+	}
+}, {
+	"name": "Joseph Hasper",
+	"title": "Jazz Ensemble",
+	"code": "MUSI 117 A",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["7 PM", "9 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Joseph Hasper",
+	"title": "Stage Band",
+	"code": "MUSI 118 A",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["7 PM", "9 PM"],
+		"F": []
+	}
+}, {
+	"name": "Stacy Paparone",
+	"title": "Grove City College Singers",
+	"code": "MUSI 119 A",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["7:15 PM", "9 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Melva Huebert",
+	"title": "Piano Class I",
+	"code": "MUSI 123 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Melva Huebert",
+	"title": "Piano Class I",
+	"code": "MUSI 123 B",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Melva Huebert",
+	"title": "Piano Class Ii",
+	"code": "MUSI 124 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["2:30 PM", "3:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Melva Huebert",
+	"title": "Piano Class Iii",
+	"code": "MUSI 125 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "George Churm",
+	"title": "Guitar Class I",
+	"code": "MUSI 135 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "George Churm",
+	"title": "Guitar Class I",
+	"code": "MUSI 135 B",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "George Churm",
+	"title": "Guitar Class Ii",
+	"code": "MUSI 137 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Jeffrey Tedford",
+	"title": "Music Recital Attendance - Minors",
+	"code": "MUSI 198 A",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["3 PM", "3:50 PM"]
+	}
+}, {
+	"name": "Jeffrey Tedford",
+	"title": "Music Recital Attendance-Majors",
+	"code": "MUSI 199 A",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["3 PM", "3:50 PM"]
+	}
+}, {
+	"name": "Stacy Paparone",
+	"title": "Intro to Music Education",
+	"code": "MUSI 202 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:15 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Joseph Hasper",
+	"title": "Music Theory Iv",
+	"code": "MUSI 204 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "1:50 PM"],
+		"W": [],
+		"R": ["1 PM", "1:50 PM"],
+		"F": []
+	}
+}, {
+	"name": "Melva Huebert",
+	"title": "Aural Skills Iv",
+	"code": "MUSI 206 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Katherine Mueller",
+	"title": "Vocal Methods",
+	"code": "MUSI 209 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Sasha Piastro-Tedford",
+	"title": "Vocal Diction",
+	"code": "MUSI 211 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": ["8:30 AM", "9:20 AM"],
+		"W": [],
+		"R": ["8:30 AM", "9:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Sasha Piastro-Tedford",
+	"title": "Music Theatre Workshop",
+	"code": "MUSI 222 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["1 PM", "2:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "M Young",
+	"title": "Opera Workshop",
+	"code": "MUSI 223 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["1 PM", "2:50 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "M Young",
+	"title": "Opera Workshop",
+	"code": "MUSI 225 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "M Young",
+	"title": "Opera Workshop",
+	"code": "MUSI 225 B",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Joseph Hasper",
+	"title": "Orchestration",
+	"code": "MUSI 304 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Stacy Paparone",
+	"title": "Music Methods/Elementary Teachers",
+	"code": "MUSI 315 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Jeffrey Tedford",
+	"title": "Adv Instr Conducting",
+	"code": "MUSI 318 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Melva Huebert",
+	"title": "World Music: Africa and Americas",
+	"code": "MUSI 329 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Paul Munson",
+	"title": "Music History Ii",
+	"code": "MUSI 332 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Janey Roach",
+	"title": "Intro to Professional Nursing",
+	"code": "NURS 100 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": ["12 PM", "1:50 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Christopher Franklin",
+	"title": "Intro to Philosophy",
+	"code": "PHIL 161 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Ryan West",
+	"title": "Symbolic Logic",
+	"code": "PHIL 201 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Christopher Franklin",
+	"title": "General Logic",
+	"code": "PHIL 211 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Ryan West",
+	"title": "Medieval Philosophy",
+	"code": "PHIL 232 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Michael Coulter",
+	"title": "Bio-Medical Ethics",
+	"code": "PHIL 271 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Christopher Franklin",
+	"title": "Metaphysics",
+	"code": "PHIL 311 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Christopher Franklin",
+	"title": "Philsophy of Religion",
+	"code": "PHIL 314 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Leo Sayles",
+	"title": "Beginning Bowling",
+	"code": "PHYE 207 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Henry Boyle",
+	"title": "Tennis",
+	"code": "PHYE 209 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Henry Boyle",
+	"title": "Tennis",
+	"code": "PHYE 209 B",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Kevin Garvey",
+	"title": "Adv Ballroom Dancing - Men",
+	"code": "PHYE 216 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Kevin Garvey",
+	"title": "Adv Ballroom Dancing - Women",
+	"code": "PHYE 216 B",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Kristen Cramer",
+	"title": "Volleyball",
+	"code": "PHYE 217 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Kevin Garvey",
+	"title": "Study: Tap & Jazz",
+	"code": "PHYE 290 B",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Jeffrey Wolinski",
+	"title": "General Physics I-Engineering",
+	"code": "PHYS 101 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Jeffrey Wolinski",
+	"title": "General Physics I-Engineering",
+	"code": "PHYS 101 B",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Glenn Marsch",
+	"title": "Laboratory Workshop",
+	"code": "PHYS 101 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["3 PM", "5 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Glenn Marsch",
+	"title": "Laboratory Workshop",
+	"code": "PHYS 101 M",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["10:05 AM", "12:05 PM"],
+		"F": []
+	}
+}, {
+	"name": "Glenn Marsch",
+	"title": "Laboratory Workshop",
+	"code": "PHYS 101 N",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["2:30 PM", "4:30 PM"],
+		"F": []
+	}
+}, {
+	"name": "James Clem",
+	"title": "Laboratory Workshop",
+	"code": "PHYS 101 P",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["2 PM", "4 PM"]
+	}
+}, {
+	"name": "Shane Brower",
+	"title": "Gen Physics Ii-Engineering",
+	"code": "PHYS 102 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Luke Fugate",
+	"title": "Laboratory Workshop",
+	"code": "PHYS 102 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["2 PM", "4 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Shane Brower",
+	"title": "College Physics Ii",
+	"code": "PHYS 122 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Shane Brower",
+	"title": "College Physics Ii",
+	"code": "PHYS 122 B",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "James Clem",
+	"title": "Laboratory Workshop",
+	"code": "PHYS 122 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["2 PM", "4 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "James Clem",
+	"title": "Laboratory Workshop",
+	"code": "PHYS 122 M",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["3 PM", "4:59 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Doris Wagner",
+	"title": "Modern Physics",
+	"code": "PHYS 234 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Doris Wagner",
+	"title": "Intro to Theoretical Physics",
+	"code": "PHYS 242 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Shane Brower",
+	"title": "Intermed Physics Lab",
+	"code": "PHYS 288 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["1 PM", "4:59 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Glenn Marsch",
+	"title": "Medical Imaging and Diagnostic Phys",
+	"code": "PHYS 402 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Jeffrey Wolinski",
+	"title": "Quantum Mechanics",
+	"code": "PHYS 431 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Mark Fair",
+	"title": "Computation Methods/Phys",
+	"code": "PHYS 442 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Michael Coulter",
+	"title": "Foundations of Political Science",
+	"code": "POLS 101 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Samuel Stanton",
+	"title": "International Politics",
+	"code": "POLS 104 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["8 AM", "9:15 AM"],
+		"W": [],
+		"R": ["8 AM", "9:15 AM"],
+		"F": []
+	}
+}, {
+	"name": "Paul McNulty",
+	"title": "Understanding the Us Constitution",
+	"code": "POLS 111 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["7 PM", "7:50 PM"],
+		"F": []
+	}
+}, {
+	"name": "Caleb Verbois",
+	"title": "American National Govt",
+	"code": "POLS 204 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Michael Coulter",
+	"title": "Pol Phil and Christian Tradition",
+	"code": "POLS 205 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Samuel Stanton",
+	"title": "Research Meth in Political Sci",
+	"code": "POLS 277 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Samuel Stanton",
+	"title": "National Security",
+	"code": "POLS 302 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Jay Cost",
+	"title": "American Congress",
+	"code": "POLS 305 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["6:30 PM", "9 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Michael Coulter",
+	"title": "State & Local Politics",
+	"code": "POLS 309 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Samuel Stanton",
+	"title": "Us Foreign Policy",
+	"code": "POLS 310 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Caleb Verbois",
+	"title": "Constitutional Law of the Us Ii",
+	"code": "POLS 318 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Caleb Verbois",
+	"title": "American Political Thought",
+	"code": "POLS 350 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Paul Kengor",
+	"title": "Marxism",
+	"code": "POLS 354 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Paul Kengor",
+	"title": "Study: Amer Political Conservatism",
+	"code": "POLS 390 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Kristin Homan",
+	"title": "Foundations of Psyc Science",
+	"code": "PSYC 101 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Martin Bright",
+	"title": "Foundations of Psyc Science",
+	"code": "PSYC 101 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Phyllis Genareo",
+	"title": "Educational Psychology",
+	"code": "PSYC 102 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Phyllis Genareo",
+	"title": "Educational Psychology",
+	"code": "PSYC 102 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Joseph Horton",
+	"title": "Lifespan Human Growth & Development",
+	"code": "PSYC 103 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Kevin Seybold",
+	"title": "Perspectives On Psychology",
+	"code": "PSYC 105 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": ["6:30 PM", "7:20 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Gary Welton",
+	"title": "Cross-Cultural Psychology",
+	"code": "PSYC 200 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Kristin Homan",
+	"title": "Statistical Methods",
+	"code": "PSYC 201 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Gary Welton",
+	"title": "Statistical Methods",
+	"code": "PSYC 201 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Kevin Seybold",
+	"title": "Research Methods",
+	"code": "PSYC 204 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Kevin Seybold",
+	"title": "Laboratory",
+	"code": "PSYC 204 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "4:59 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "E Throckmorton",
+	"title": "Intro to Professional Counseling",
+	"code": "PSYC 206 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "E Throckmorton",
+	"title": "Social Psychology",
+	"code": "PSYC 208 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Joseph Horton",
+	"title": "Child Development",
+	"code": "PSYC 209 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Joseph Horton",
+	"title": "Child Development",
+	"code": "PSYC 209 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kristin Homan",
+	"title": "Adult Development & Aging",
+	"code": "PSYC 211 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Suzanne Houk",
+	"title": "Study: Mental Hlth Peer Support Ii",
+	"code": "PSYC 290 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Suzanne Houk",
+	"title": "Study: Mental Hlth Advocacy",
+	"code": "PSYC 290 B",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["1 PM", "1:50 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kevin Seybold",
+	"title": "Sensation & Perception",
+	"code": "PSYC 306 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Joseph Horton",
+	"title": "Psychological Assessment",
+	"code": "PSYC 310 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "E Throckmorton",
+	"title": "Abnormal Psychology",
+	"code": "PSYC 312 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "E Throckmorton",
+	"title": "Prep For Mental Health Professions",
+	"code": "PSYC 326 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Kristin Homan",
+	"title": "Advanced Research Methods",
+	"code": "PSYC 404 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "James Bibza",
+	"title": "New Testament Lit/Hist",
+	"code": "RELI 212 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "James Bibza",
+	"title": "New Testament Lit/Hist",
+	"code": "RELI 212 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "James Bibza",
+	"title": "New Testament Lit/Hist",
+	"code": "RELI 212 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "George Campbell",
+	"title": "Interpreting the Bible",
+	"code": "RELI 218 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Seulgi Byun",
+	"title": "Ot Biblical Books - Isaiah & Micah",
+	"code": "RELI 237 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8:35 AM", "9:50 AM"],
+		"T": [],
+		"W": ["8:35 AM", "9:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Julie Moeller",
+	"title": "Ot Biblical Books - Minor Prophets",
+	"code": "RELI 237 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "George Campbell",
+	"title": "Ot Biblical Books - Torah",
+	"code": "RELI 237 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Thomas Gordon",
+	"title": "Nt Biblical Books - John",
+	"code": "RELI 238 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "James Bibza",
+	"title": "Defending the Faith",
+	"code": "RELI 255 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Paul Schaefer",
+	"title": "C.S. Lewis:Christian Apologist",
+	"code": "RELI 261 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Carl Trueman",
+	"title": "Study: Doctrine of God",
+	"code": "RELI 290 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Paul Schaefer",
+	"title": "Luther & Calvin",
+	"code": "RELI 345 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Timothy Mohr",
+	"title": "Mobile Robots",
+	"code": "ROBO 302 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Timothy Mohr",
+	"title": "Laboratory",
+	"code": "ROBO 302 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["2:30 PM", "4:30 PM"],
+		"F": []
+	}
+}, {
+	"name": "Blair Allison",
+	"title": "Capstone Design Project Ii",
+	"code": "ROBO 452 L",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["4 PM", "5 PM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Blair Allison",
+	"title": "Capstone Design Project Ii",
+	"code": "ROBO 452 M",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Doris Wagner",
+	"title": "Fundamentals of the Universe",
+	"code": "SCIC 201 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["12 PM", "12:59 PM"],
+		"T": [],
+		"W": ["12 PM", "12:59 PM"],
+		"R": [],
+		"F": ["12 PM", "12:59 PM"]
+	}
+}, {
+	"name": "Doris Wagner",
+	"title": "Laboratory",
+	"code": "SCIC 201 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Brian Yowler",
+	"title": "Life Science",
+	"code": "SCIC 202 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Brian Yowler",
+	"title": "Laboratory",
+	"code": "SCIC 202 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["3 PM", "4:59 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Stephen Jenkins",
+	"title": "Laboratory",
+	"code": "SCIC 202 M",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["1 PM", "2:59 PM"],
+		"F": []
+	}
+}, {
+	"name": "Stephen Jenkins",
+	"title": "Laboratory",
+	"code": "SCIC 202 N",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": [],
+		"R": ["3 PM", "4:59 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kevin Shaw",
+	"title": "Atoms, Molecules & Material World",
+	"code": "SCIC 203 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Ven Ney Wong",
+	"title": "Laboratory",
+	"code": "SCIC 203 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["1 PM", "2:59 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Ven Ney Wong",
+	"title": "Laboratory",
+	"code": "SCIC 203 M",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": ["3 PM", "4:59 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Darren Wood",
+	"title": "Environmental Science",
+	"code": "SCIC 204 A",
+	"term": "S21",
+	"credits": 4,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Joy Strain",
+	"title": "Laboratory",
+	"code": "SCIC 204 L",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:59 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Stephen Jenkins",
+	"title": "Laboratory",
+	"code": "SCIC 204 M",
+	"term": "S21",
+	"credits": 0,
+	"time": {
+		"M": [],
+		"T": ["3 PM", "4:59 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Samantha Fecich",
+	"title": "Exceptional Learners",
+	"code": "SEDU 101 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Samantha Fecich",
+	"title": "Exceptional Learners",
+	"code": "SEDU 101 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Tammi Martin",
+	"title": "Educ Assess in Special Education",
+	"code": "SEDU 204 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["6:30 PM", "9 PM"],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Tammi Martin",
+	"title": "Consult, Litigation, & Transition",
+	"code": "SEDU 205 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["6 PM", "8:30 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Phyllis Genareo",
+	"title": "Evid Base Instr High Incid Disabil",
+	"code": "SEDU 309 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Phyllis Genareo",
+	"title": "Practicum of Professional Develop",
+	"code": "SEDU 412 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": ["4 PM", "5 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "David Ayers",
+	"title": "Foundations of Applied Sociology",
+	"code": "SOCI 101 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Martin Bright",
+	"title": "Foundations of Applied Sociology",
+	"code": "SOCI 101 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "David Ayers",
+	"title": "Found of Cultural Anthropology",
+	"code": "SOCI 103 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "William Fleske",
+	"title": "Introduction to Criminal Justice",
+	"code": "SOCI 233 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["6:30 PM", "9 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Martin Bright",
+	"title": "Courtship & Marriage",
+	"code": "SOCI 251 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Martin Bright",
+	"title": "Courtship & Marriage",
+	"code": "SOCI 251 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "David Ayers",
+	"title": "Applied Sociology Colloquium",
+	"code": "SOCI 452 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["3 PM", "5:30 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "David Ayers",
+	"title": "Worldviews in Conflict I",
+	"code": "SOCI 471 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Jennifer Hollenberger",
+	"title": "Foundations of Social Work",
+	"code": "SOCW 101 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["3 PM", "5:30 PM"],
+		"T": [],
+		"W": [],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Lisa Hosack",
+	"title": "Human Behavior in Social Env I",
+	"code": "SOCW 264 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Lisa Hosack",
+	"title": "Child Welfare",
+	"code": "SOCW 305 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Jennifer Hollenberger",
+	"title": "Generalist Practice Ii",
+	"code": "SOCW 310 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Jennifer Hollenberger",
+	"title": "Human Behavior Social Env Ii",
+	"code": "SOCW 364 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Lisa Hosack",
+	"title": "Human Diversity in Soci Work Prac",
+	"code": "SOCW 382 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Jennifer Hollenberger",
+	"title": "Field Placement Seminar Ii",
+	"code": "SOCW 426 A",
+	"term": "S21",
+	"credits": 1,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "David Kinman",
+	"title": "Elementary Spanish Ii",
+	"code": "SPAN 102 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["8 AM", "8:50 AM"],
+		"T": [],
+		"W": ["8 AM", "8:50 AM"],
+		"R": [],
+		"F": ["8 AM", "8:50 AM"]
+	}
+}, {
+	"name": "Carla Ligo",
+	"title": "Elementary Spanish Ii",
+	"code": "SPAN 102 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Carla Ligo",
+	"title": "Elementary Spanish Ii",
+	"code": "SPAN 102 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "David Kinman",
+	"title": "Elementary Spanish Ii",
+	"code": "SPAN 102 D",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Deborah Forteza",
+	"title": "Intermediate Spanish Ii",
+	"code": "SPAN 202 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Deborah Forteza",
+	"title": "Intermediate Spanish Ii",
+	"code": "SPAN 202 B",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Melissa Carruth",
+	"title": "Intermediate Spanish Ii",
+	"code": "SPAN 202 C",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["12 PM", "12:50 PM"],
+		"T": [],
+		"W": ["12 PM", "12:50 PM"],
+		"R": [],
+		"F": ["12 PM", "12:50 PM"]
+	}
+}, {
+	"name": "Melissa Carruth",
+	"title": "Intermediate Spanish Ii",
+	"code": "SPAN 202 D",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Carla Ligo",
+	"title": "Spanish Language and Culture",
+	"code": "SPAN 295 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Melissa Carruth",
+	"title": "Conversation",
+	"code": "SPAN 303 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Deborah Forteza",
+	"title": "Applied Phonetics",
+	"code": "SPAN 305 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Melissa Carruth",
+	"title": "Business Culture in Hispanic World",
+	"code": "SPAN 316 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}, {
+	"name": "Deborah Forteza",
+	"title": "Contemporary Spain",
+	"code": "SPAN 320 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Karyn Senita",
+	"title": "Aspects-Language Learning",
+	"code": "SPAN 362 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["2 PM", "2:50 PM"],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Kevin Seybold",
+	"title": "Science and Religion",
+	"code": "SSFT 210 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Jan Dudt",
+	"title": "Science, Faith, and Technology",
+	"code": "SSFT 212 A",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": []
+	}
+}, {
+	"name": "Glenn Marsch",
+	"title": "Science, Faith, and Technology",
+	"code": "SSFT 212 B",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Glenn Marsch",
+	"title": "Science, Faith, and Technology",
+	"code": "SSFT 212 C",
+	"term": "S21",
+	"credits": 2,
+	"time": {
+		"M": [],
+		"T": [],
+		"W": ["2 PM", "2:50 PM"],
+		"R": [],
+		"F": ["2 PM", "2:50 PM"]
+	}
+}, {
+	"name": "Betsy Craig",
+	"title": "Acting",
+	"code": "THEA 251 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["1 PM", "2:15 PM"],
+		"W": [],
+		"R": ["1 PM", "2:15 PM"],
+		"F": []
+	}
+}, {
+	"name": "Daniel Wolfe",
+	"title": "Stagecraft",
+	"code": "THEA 261 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Betsy Craig",
+	"title": "Stage Direction",
+	"code": "THEA 320 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Adam Loretto",
+	"title": "Foundations of Academic Discourse",
+	"code": "WRIT 101 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["9 AM", "9:50 AM"],
+		"T": [],
+		"W": ["9 AM", "9:50 AM"],
+		"R": [],
+		"F": ["9 AM", "9:50 AM"]
+	}
+}, {
+	"name": "Andrew Harvey",
+	"title": "Foundations of Academic Discourse",
+	"code": "WRIT 101 D",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["11 AM", "11:50 AM"],
+		"T": [],
+		"W": ["11 AM", "11:50 AM"],
+		"R": [],
+		"F": ["11 AM", "11:50 AM"]
+	}
+}, {
+	"name": "Adam Loretto",
+	"title": "Foundations of Academic Discourse",
+	"code": "WRIT 101 E",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "Joshua Mayo",
+	"title": "Foundations of Academic Discourse",
+	"code": "WRIT 101 F",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["1 PM", "1:50 PM"],
+		"T": [],
+		"W": ["1 PM", "1:50 PM"],
+		"R": [],
+		"F": ["1 PM", "1:50 PM"]
+	}
+}, {
+	"name": "C Rine",
+	"title": "Foundations of Academic Discourse",
+	"code": "WRIT 101 G",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["3 PM", "3:50 PM"],
+		"T": [],
+		"W": ["3 PM", "3:50 PM"],
+		"R": [],
+		"F": ["3 PM", "3:50 PM"]
+	}
+}, {
+	"name": "Joshua Mayo",
+	"title": "Foundations of Academic Discourse",
+	"code": "WRIT 101 H",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "C Rine",
+	"title": "Foundations of Academic Discourse",
+	"code": "WRIT 101 I",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "C Rine",
+	"title": "Foundations of Academic Discourse",
+	"code": "WRIT 101 J",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Joshua Mayo",
+	"title": "Foundations of Academic Discourse",
+	"code": "WRIT 101 K",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Eric Potter",
+	"title": "Creative Writing",
+	"code": "WRIT 271 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["11:30 AM", "12:45 PM"],
+		"W": [],
+		"R": ["11:30 AM", "12:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kimberly Miller",
+	"title": "Developing Characters",
+	"code": "WRIT 272 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["10:05 AM", "11:20 AM"],
+		"W": [],
+		"R": ["10:05 AM", "11:20 AM"],
+		"F": []
+	}
+}, {
+	"name": "Andrew Harvey",
+	"title": "Creative Non-Fiction",
+	"code": "WRIT 281 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": [],
+		"T": ["2:30 PM", "3:45 PM"],
+		"W": [],
+		"R": ["2:30 PM", "3:45 PM"],
+		"F": []
+	}
+}, {
+	"name": "Kimberly Miller",
+	"title": "Screenwriting",
+	"code": "WRIT 359 A",
+	"term": "S21",
+	"credits": 3,
+	"time": {
+		"M": ["10 AM", "10:50 AM"],
+		"T": [],
+		"W": ["10 AM", "10:50 AM"],
+		"R": [],
+		"F": ["10 AM", "10:50 AM"]
+	}
+}]
