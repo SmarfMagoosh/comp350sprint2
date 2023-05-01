@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-
-
 import "../pages/Home.css";
 import Search from '../component/Search';
 import SearchBar from '../component/SearchBar';
