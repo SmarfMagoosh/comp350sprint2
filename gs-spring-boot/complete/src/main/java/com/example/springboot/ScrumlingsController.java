@@ -35,7 +35,6 @@ public class ScrumlingsController {
         this.Username = dummyName;
     }
 
-
     @RequestMapping("/getAuth")
     public ResponseEntity<Boolean> getAuth() {
         return ResponseEntity.ok(this.isAuth);
@@ -73,7 +72,7 @@ public class ScrumlingsController {
 
     @GetMapping("/courses")
     public String getCourses() {
-        return "testing";
+        return "courses.json";
     }
 
     public HashMap<String, String> CredentialsJSONParser (String data){

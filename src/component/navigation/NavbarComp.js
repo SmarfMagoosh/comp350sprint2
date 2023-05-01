@@ -29,7 +29,7 @@ export default class NavbarComp extends Component {
                          <path d="M6 11.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1-.5-.5zm-2-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-2-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"/>
                        </svg>
                         <a className="navbar-brand nav-link" href="">Scrumlings Scheduler </a>
-                        <Nav.Link as={Link} to={"/"}> Home </Nav.Link>
+                        <Nav.Link as={Link} to={"/home"}> Home </Nav.Link>
                         <Nav.Link as={Link} to={"/about"}>My Schedules</Nav.Link>
                         <Nav.Link as={Link} to={"/view"}>Calender View</Nav.Link>
                         <svg xmlns="http://www.w3.org/2000/svg" href = "#" width="35" height="35" fill="white" className="bi bi-arrow-down-square-fill" viewBox="0 0 16 16">
@@ -42,7 +42,7 @@ export default class NavbarComp extends Component {
             </div>
             <div>
                 <Routes>
-                 <Route exact path="/" element={<Home/>}/>
+                 <Route exact path="/home" element={<Home/>}/>
                  <Route exact path="/about" element={<About/>}/>
                  <Route exact path="/view" element={<View/>}/>
                 </Routes>
