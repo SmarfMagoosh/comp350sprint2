@@ -13,10 +13,4 @@ public class ScrumlingsController {
     public String getCourses() {
         return "courses.json";
     }
-
-    @GetMapping("/fall")
-    public String getFallCourses() { return "fallCourses.json"; }
-
-    @GetMapping("/spring")
-    public String getSpringCourses() { return "springCourses.json"; }
 }
