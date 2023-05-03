@@ -9,12 +9,22 @@ import java.util.HashMap;
 
 @Controller
 @CrossOrigin(origins = "http://localhost:3000")
-public class ScrumlingsController {
 
-    Boolean isAuth = false;
+public class ScrumlingsController {
+    private Boolean isAuth = false;
     @GetMapping("/courses")
     public String getCourses() {
         return "courses.json";
+    }
+
+    public void setAuth(boolean dummyAuth){
+        this.isAuth = dummyAuth;
+    }
+
+
+    @RequestMapping("/getAuth")
+    public boolean getAuth() {
+        return this.isAuth;
     }
 
     public HashMap<String, String> CredentialsJSONParser (String data){
@@ -31,6 +41,7 @@ public class ScrumlingsController {
         }
         return map;
     }
+
 
     @RequestMapping("/register")
     public ResponseEntity<String> Register(@RequestBody String data) throws SQLException {
@@ -52,11 +63,6 @@ public class ScrumlingsController {
         return ResponseEntity.ok("registering successful");
     }
 
-
-    public void setAuth(boolean dummyAuth){
-        this.isAuth = dummyAuth;
-    }
-
     @RequestMapping("/login")
     public ResponseEntity<String> Login(@RequestBody String data) {
 
@@ -66,9 +72,11 @@ public class ScrumlingsController {
         String password = map.get("password");
 
 
-        // set auth to true if logged in otherwise false
+        // set auth to true
         this.setAuth(true);
 
         return ResponseEntity.ok("login successful");
     }
+
+
 }
