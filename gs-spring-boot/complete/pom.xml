@@ -35,6 +35,16 @@
 			<scope>test</scope>
 		</dependency>
 		<!-- end::tests[] -->
+
+		<!-- sql dependency -->
+		<dependency>
+			<groupId>org.xerial</groupId>
+			<artifactId>sqlite-jdbc</artifactId>
+			<version>3.16.1</version>
+
+		</dependency>
+
+
 	</dependencies>
 
 	<build>
