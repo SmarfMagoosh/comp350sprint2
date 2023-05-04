@@ -1,16 +1,117 @@
 import React, { Component } from "react";
-
-
 import "../pages/Home.css";
 import Search from '../component/Search';
 import SearchBar from '../component/SearchBar';
 import Dropdown from '../component/Dropdown';
 
+const userId = 2;
+
+function equals(l1, l2) {
+  if (l1.length != l2.length) {
+    return false;
+  }
+  return l1[0] == l2[0] && l1[1] == l2[1];
+}
+
+function includes(list, listoflist) {
+  for (let l of listoflist) {
+    if(equals(list, l)) {
+      return true;
+    }
+  }
+  return false;
+}
+
+function courseTime(course) {
+  if (course === undefined) {
+    return "ERROR";
+  } else {
+    let meetDays = ["M", "T", "W", "R", "F"].filter(day => course.time[day].length > 0);
+    let meetTimes = [];
+    meetDays.forEach(day => {
+      if (!includes(course.time[day], meetTimes)) {
+        meetTimes.push(course.time[day]);
+      }
+    });
+  }
+}
+
+function parseTime(ts) {
+  if (ts == "") {
+    return -1;
+  }
+  let components = ts.split(" ");
+  let time = components[0].split(":");
+  let hr = parseInt(time[0])
+  hr += (time.length > 1) ? parseInt(time[1]) / 60.0 : 0
+  return hr + ((components[1] == "AM") ? 0 : 12);
+}
+
+function overlap(course1, course2) {
+  for (let day of ["M", "T", "W", "R", "F"]) {
+    if (course1.time[day].length == 0 || course2.time[day].length == 0) {
+      continue;
+    } else {
+      let t1 = [parseTime(course1.time[day][0]), parseTime(course1.time[day][1])];
+      let t2 = [parseTime(course2.time[day][0]), parseTime(course2.time[day][1])];
+      if(t1[0] > t2[1] || t2[0] > t1[1]) {
+        continue;
+      } else {
+        return true;
+      }
+    }
+  }
+  return false;
+}
+
+class Schedule {
+  constructor(schedObj) {
+    this.name = schedObj.name;
+    this.term = schedObj.term;
+    this.courses = schedObj.courses;
+    this.rename.bind(this);
+  }
+
+  addCourse(course) {
+    if (this.term == "") {
+      this.term = course.term;
+    }
+
+    if (course.term != this.term) {
+      throw new Error(`Based on other classes you have added, 
+      this schedules is for the ${(this.term == "F20") ? "fall" : "spring"} 
+      but the section of ${course.title} you selected is not offered in that term.`);
+    } else if (this.courses.filter(addedCourse => addedCourse.title == course.title).length != 0) {
+      throw new Error(`You already have a section of that course in your schedule!`);
+    }
+
+    for (let addedCourse of this.courses) {
+      if (overlap(addedCourse, course)) {
+        throw new Error(`${course.title} overlaps with ${addedCourse.title}, please remove one of those`);
+      }
+    }
+    this.courses.push(course);
+  }
+
+  rename(newName) {
+    this.name = newName;
+  }
+
+  removeCourse(obj) {
+    this.courses.splice(this.courses.indexOf(obj), 1);
+  }
+
+  save() {
+    // TODO communicate with backend
+  }
+}
+
 class Home extends Component {
-  // Create a default state of this component
   constructor() {
     super();
     this.state = {
+      schedule: null,
+      schedules: [],
       courses: [],
       term: "",
       title: "",
@@ -18,24 +119,29 @@ class Home extends Component {
       dept: "",
       min: 0,
       max: 488,
+      credits: -1,
+      id: 2
     };
     this.updatefilters = this.updatefilters.bind(this);
     this.searchedCourse = this.searchedCourse.bind(this);
+    this.addCourse = this.addCourse.bind(this);
+    this.getSchedule = this.getSchedule.bind(this);
+    this.renameSchedule = this.renameSchedule.bind(this);
+    this.removeCourse = this.removeCourse.bind(this);
   }
 
   componentDidMount() {
+    fetch("http://localhost:8080/schedules?id=" + this.state.id)
+    .then(response => response.ok ? response.json() : Promise.reject(response))
+    .then(data => this.setState({ schedules: data[0].schedules }));
+
     fetch('http://localhost:8080/courses')
-    .then(response => {
-      if (response.ok) { return response.json(); } 
-      else { return Promise.reject(response); }
-    })
-    .then(courseList => this.setState({ courses: courseList}))
+    .then(response => response.ok ? response.json() : Promise.reject(response))
+    .then(courseList => this.setState({ courses: courseList }));
   }
 
   updatefilters(input) {
-    if (input.target.name == "term") {
-      this.setState({ term: (input.target.value == "Fall") ? "F20": "S21" })
-    } else if (input.target.name == "course search") {
+    if (input.target.name == "course search") {
       this.setState({ title: input.target.value.toLowerCase() })
     } else if (input.target.name == "prof search") {
       this.setState({ prof: input.target.value.toLowerCase() })
@@ -45,6 +151,8 @@ class Home extends Component {
       this.setState({ max: (input.target.value > 488) ? 488 : input.target.value })
     } else if (input.target.name == "dept") {
       this.setState({ dept: input.target.value.toLowerCase() })
+    } else if (input.target.name == "credits") {
+      this.setState({ credits: input.target.value == "" ? -1 : Math.floor(input.target.value) });
     }
   }
 
@@ -63,20 +171,56 @@ class Home extends Component {
       }
     )()
     let dept = course.code.split(" ")[0].toLowerCase().includes(this.state.dept)
-    return term && title && prof && num && dept;    
+    let credits = course.credits == this.state.credits || this.state.credits == -1;
+    return term && title && prof && num && dept && credits;    
   }
 
-  greet() {
-    console.log("hello world");
+  addCourse(event) {
+    try {
+      this.state.schedule.addCourse(this.state.courses[event.target.id]);
+    } catch(error) {
+      // TODO actually handle error
+      console.log(error.message) // TODO remove this when error is properly handled
+    }
+    this.setState({ schedule: this.state.schedule })
+    console.log(this.state.schedule);
   }
-  
+
+  getSchedule(event) {
+    let x = (
+      (name) => {
+        for(let sched of this.state.schedules) {
+          if (sched.name == name) {
+            return new Schedule(sched);
+          }
+        }
+        return new Schedule();
+      }
+    )(event.target.value)
+    this.setState({ schedule: x, term: x.term } )
+  }
+
+  renameSchedule(event) {
+    this.state.schedule.rename(event.target.value);
+  }
+
+  removeCourse(event) {
+    this.state.schedule.removeCourse(this.state.courses[event.target.id]);
+    this.setState({ schedule: this.state.schedule });
+    console.log(this.state.schedule);
+  }
+
   render() {
     let filtCourses = this.state.courses.filter(course => this.searchedCourse(course));
-    console.log(filtCourses.length);
     return (
       <div className="Home">
         <h1 class = "pad">Scheduler Application </h1>
-        <Dropdown/>
+        <div>
+          <select onChange = { this.getSchedule } id = "schedule">
+            <option>Select a Schedule</option>
+            { this.state.schedules.map(sched => <option> {sched.name} </option>) }
+          </select>
+        </div>
         <form action="/" method="get">
           <div>
             <label for="course-search">Search Courses: </label>
@@ -96,21 +240,11 @@ class Home extends Component {
           </div>
           <div>
             <div>
-                <input type = "radio" name = "term" value = "Fall" onInput={ this.updatefilters }></input>
-                <label>Fall</label>
-            </div>
-            <div>
-                <input type = "radio" name = "term" value = "Spring" onInput={ this.updatefilters }></input>
-                <label>Spring</label>
-            </div>
-          </div>
-          <div>
-            <div>
-              <label>Min: </label>
+              <label>Course Code Minimum: </label>
               <input type = "number" name = "min" min = "0" max = "488" onInput= { this.updatefilters }></input>
             </div>
             <div>
-              <label>Max: </label>
+              <label>Course Code Maximum: </label>
               <input type = "number" name = "max" min = "0" max = "488" onInput= { this.updatefilters }></input>
             </div>
           </div>
@@ -118,30 +252,74 @@ class Home extends Component {
             <label>Department: </label>
             <input type = "text" name = "dept" onChange= { this.updatefilters }></input>
           </div>
+          <div>
+            <label>Credits: </label>
+            <input type = "number" name = "credits" min = "0" max = "4" onInput= { this.updatefilters }></input>
+          </div>
         </form>
-        <table>
+        {
+          this.state.schedule === null ? <div></div> : (
+            <div>
+              <label>Name: </label>
+              <input type = "text" defaultValue = { this.state.schedule.name } onInput = { this.renameSchedule }></input>
+              <table>
           <thead>
             <tr>
               <td></td>
-              <td>Term</td>
               <td>Code</td>
               <td>Section</td>
               <td>Title</td>
               <td>Professor</td>
               <td>Credits</td>
+              <td>Time</td>
+            </tr>
+          </thead>
+          <tbody>
+            { this.state.schedule.courses.map(course => {
+              return (
+              <tr>
+                <td><button id = { this.state.courses.indexOf(course) } onClick = { this.removeCourse }>Remove</button></td>
+                <td>{course.code.split(" ").slice(0,2).join(" ")}</td>
+                <td>{course.code.split(" ")[2]}</td>
+                <td>{course.title}</td>
+                <td>{course.prof}</td>
+                <td>{course.credits}</td>
+                <td>{courseTime(course)}</td>
+              </tr>
+              )
+            })}
+          </tbody>
+        </table>
+            </div>
+          )
+        }
+        <table>
+          <thead>
+            <tr>
+              <td></td>
+              <td>Code</td>
+              <td>Section</td>
+              <td>Title</td>
+              <td>Professor</td>
+              <td>Credits</td>
+              <td>Time</td>
             </tr>
           </thead>
           <tbody>
             {filtCourses.map(course => {
               return (
               <tr>
-                <td><button onClick={ this.greet }>Add</button></td>
-                <td>{(course.term == "F20") ? "Fall" : "Spring"}</td>
+                <td>
+                  { document.getElementById("schedule").value == "Select a Schedule" ? 
+                  "" : 
+                  <button id = { this.state.courses.indexOf(course) } onClick = { this.addCourse }>Add</button>}
+                </td>
                 <td>{course.code.split(" ").slice(0,2).join(" ")}</td>
                 <td>{course.code.split(" ")[2]}</td>
                 <td>{course.title}</td>
                 <td>{course.prof}</td>
                 <td>{course.credits}</td>
+                <td>{courseTime(course)}</td>
               </tr>
               )
             })}

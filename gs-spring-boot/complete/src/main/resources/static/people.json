@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Evan",
+    "id": 2,
+    "schedules": [
+      {
+        "name": "Fall 2020",
+        "term": "F20",
+        "courses": [
+          {
+            "prof": "Lory Al Moakar",
+            "title": "Database Mgt Systems",
+            "code": "COMP 244 B",
+            "term": "F20",
+            "credits": 3,
+            "time": {
+              "M": [],
+              "T": [
+                "11:30 AM",
+                "12:45 PM"
+              ],
+              "W": [],
+              "R": [
+                "11:30 AM",
+                "12:45 PM"
+              ],
+              "F": []
+            }
+          },
+          {
+            "prof": "David Valentine",
+            "title": "Computer Architecture/Org",
+            "code": "COMP 325 A",
+            "term": "F20",
+            "credits": 3,
+            "time": {
+              "M": [
+                "9 AM",
+                "9:50 AM"
+              ],
+              "T": [],
+              "W": [
+                "9 AM",
+                "9:50 AM"
+              ],
+              "R": [],
+              "F": [
+                "9 AM",
+                "9:50 AM"
+              ]
+            }
+          }
+        ],
+        "savedStatus": false
+      },
+      {
+        "name": "Spring 2021",
+        "term": "S21",
+        "courses": [
+          {
+            "prof": "Brian Dellinger",
+            "title": "Ethics Faith and Conscious Mind",
+            "code": "COMP 205 B",
+            "term": "S21",
+            "credits": 3,
+            "time": {
+              "M": [],
+              "T": [
+                "11:30 AM",
+                "12:45 PM"
+              ],
+              "W": [],
+              "R": [
+                "11:30 AM",
+                "12:45 PM"
+              ],
+              "F": []
+            }
+          },
+          {
+            "prof": "Jonathan Hutchins",
+            "title": "Comp Programming 2",
+            "code": "COMP 220 B",
+            "term": "S21",
+            "credits": 3,
+            "time": {
+              "M": [
+                "12 PM",
+                "12:50 PM"
+              ],
+              "T": [],
+              "W": [
+                "12 PM",
+                "12:50 PM"
+              ],
+              "R": [],
+              "F": [
+                "12 PM",
+                "12:50 PM"
+              ]
+            }
+          }
+        ],
+        "savedStatus": false
+      }
+    ]
+  }
+]
