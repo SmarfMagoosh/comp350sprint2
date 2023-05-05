@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import "./About.css";
 import Card from '../component/Card';
 
+
 //import croppedprofile from "../assets/croppedprofile.jpg";
 
 export default class About extends Component {
@@ -22,6 +23,7 @@ export default class About extends Component {
            />
 
       </div>
+
   </div>
       </div>
     )
