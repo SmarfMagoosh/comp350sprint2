@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import "../pages/Home.css";
-import Search from '../component/Search';
-import SearchBar from '../component/SearchBar';
-import Dropdown from '../component/Dropdown';
+import instance from '../component/api/axios-config';
 
 const userId = 2;
 
@@ -117,10 +115,11 @@ class Home extends Component {
       title: "",
       prof: "",
       dept: "",
-      min: 0,
+      min: 100,
       max: 488,
       credits: -1,
-      id: 2
+      id: 2,
+      name: "Evan"
     };
     this.updatefilters = this.updatefilters.bind(this);
     this.searchedCourse = this.searchedCourse.bind(this);
@@ -131,13 +130,13 @@ class Home extends Component {
   }
 
   componentDidMount() {
-    fetch("http://localhost:8080/schedules?id=" + this.state.id)
+    fetch(`http://localhost:8080/schedules?id=${this.state.id}`)
     .then(response => response.ok ? response.json() : Promise.reject(response))
-    .then(data => this.setState({ schedules: data[0].schedules }));
+    .then(data => this.setState({ schedules: data }));
 
-    fetch('http://localhost:8080/courses')
+    fetch("http://localhost:8080/courses")
     .then(response => response.ok ? response.json() : Promise.reject(response))
-    .then(courseList => this.setState({ courses: courseList }));
+    .then(data => this.setState({ courses: data }))
   }
 
   updatefilters(input) {
@@ -146,7 +145,7 @@ class Home extends Component {
     } else if (input.target.name == "prof search") {
       this.setState({ prof: input.target.value.toLowerCase() })
     } else if (input.target.name == "min") {
-      this.setState({ min: (input.target.value < 0) ? 0 : Math.floor(input.target.value )})
+      this.setState({ min: (input.target.value < 100) ? 100 : Math.floor(input.target.value )})
     } else if (input.target.name == "max") {
       this.setState({ max: (input.target.value > 488) ? 488 : input.target.value })
     } else if (input.target.name == "dept") {
@@ -183,21 +182,12 @@ class Home extends Component {
       console.log(error.message) // TODO remove this when error is properly handled
     }
     this.setState({ schedule: this.state.schedule })
-    console.log(this.state.schedule);
   }
 
   getSchedule(event) {
-    let x = (
-      (name) => {
-        for(let sched of this.state.schedules) {
-          if (sched.name == name) {
-            return new Schedule(sched);
-          }
-        }
-        return new Schedule();
-      }
-    )(event.target.value)
-    this.setState({ schedule: x, term: x.term } )
+    fetch(`http://localhost:8080/getSchedule?id=${this.state.id}&name=${event.target.value}`)
+    .then(response => response.ok ? response.json() : Promise.reject(response))
+    .then(data => this.setState({ schedule: new Schedule(data) }));
   }
 
   renameSchedule(event) {
@@ -207,7 +197,6 @@ class Home extends Component {
   removeCourse(event) {
     this.state.schedule.removeCourse(this.state.courses[event.target.id]);
     this.setState({ schedule: this.state.schedule });
-    console.log(this.state.schedule);
   }
 
   render() {
@@ -218,7 +207,7 @@ class Home extends Component {
         <div>
           <select onChange = { this.getSchedule } id = "schedule">
             <option>Select a Schedule</option>
-            { this.state.schedules.map(sched => <option> {sched.name} </option>) }
+            { this.state.schedules.map(sched => <option> {sched} </option>) }
           </select>
         </div>
         <form action="/" method="get">
@@ -241,11 +230,11 @@ class Home extends Component {
           <div>
             <div>
               <label>Course Code Minimum: </label>
-              <input type = "number" name = "min" min = "0" max = "488" onInput= { this.updatefilters }></input>
+              <input type = "number" value = "100" name = "min" min = "100" max = "488" onInput= { this.updatefilters }></input>
             </div>
             <div>
               <label>Course Code Maximum: </label>
-              <input type = "number" name = "max" min = "0" max = "488" onInput= { this.updatefilters }></input>
+              <input type = "number" value = "488" name = "max" min = "100" max = "488" onInput= { this.updatefilters }></input>
             </div>
           </div>
           <div>

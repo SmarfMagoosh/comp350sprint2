@@ -19,8 +19,6 @@
 	</properties>
 
 	<dependencies>
-
-
 		<!-- tag::actuator[] -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
