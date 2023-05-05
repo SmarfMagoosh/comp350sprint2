@@ -20,6 +20,7 @@ dependencies {
 	// tag::tests[]
 	testImplementation('org.springframework.boot:spring-boot-starter-test')
 	// end::tests[]
+	implementation 'org.json:json:20230227'
 }
 
 test {

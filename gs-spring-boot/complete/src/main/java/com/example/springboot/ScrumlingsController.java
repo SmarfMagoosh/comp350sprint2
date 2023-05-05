@@ -1,26 +1,23 @@
 package com.example.springboot;
 
+import org.json.JSONObject;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
 
 @Controller
-@CrossOrigin(origins = "http://localhost:3000")
-
+@CrossOrigin(origins = "http://localhost:3000/")
 public class ScrumlingsController {
     private Boolean isAuth = false;
 
     @GetMapping("/courses")
     public String getCourses() {
         return "courses.json";
-    }
-
-    @GetMapping("/schedules")
-    public String getSchedules(@RequestParam(value = "id", defaultValue = "") String id) {
-        return "people.json";
     }
 
     public void setAuth(boolean dummyAuth) {
@@ -81,4 +78,7 @@ public class ScrumlingsController {
         return ResponseEntity.ok("login successful");
     }
 
+    public static void main(String[] args) {
+
+    }
 }
