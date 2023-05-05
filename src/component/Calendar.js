@@ -53,8 +53,8 @@ class Calendar extends Component {
       {
         id: 1,
         text: "Course 1",
-        start: days.mon+"T10:30:00",
-        end: "2023-03-07T13:00:00"
+        start: "2023-03-07T10:00:00",
+        end: "2023-03-07T11:00:00"
       },
       {
         id: 2,
