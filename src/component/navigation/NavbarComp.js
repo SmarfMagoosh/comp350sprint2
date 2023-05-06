@@ -9,7 +9,7 @@ import {
 } from "react-router-dom"
 import About from "../../pages/About";
 import Home from "../../pages/Home";
-import Register from "../../pages/Register";
+//import Register from "../../pages/Register";
 import View from "../../pages/View";
 import "./NavBar.css";
 

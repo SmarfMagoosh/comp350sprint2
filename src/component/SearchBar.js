@@ -3,7 +3,7 @@ const SearchBar = () => (
     <form action="/" method="get">
         <span>
         <label htmlFor="header-search">
-            <span className="visually-hidden">Search blog posts</span>
+            <span className="visually-hidden">Search </span>
         </label>
         <input
             type="text"

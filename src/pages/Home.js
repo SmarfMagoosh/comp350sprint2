@@ -69,7 +69,6 @@ class Schedule {
     this.courses = schedObj.courses;
     this.rename.bind(this);
   }
-
   addCourse(course) {
     if (this.term == "") {
       this.term = course.term;
@@ -205,6 +204,21 @@ class Home extends Component {
       <div className="Home">
         <h1 class = "pad">Scheduler Application </h1>
         <div>
+        <div>
+        <h5>Create Schedule</h5>
+            <label>Schedule Name: </label>
+                    <input type = "text" name = "sch" ></input>
+             <div>
+            <label>Term: </label>
+            <input type = "text" name = "sch" ></input>
+             </div>
+           <button onClick = { this.addCourse }>Create Schedule</button>
+           <div class ="padsm"> </div>
+        </div>
+        <div>
+
+          </div>
+
           <select onChange = { this.getSchedule } id = "schedule">
             <option>Select a Schedule</option>
             { this.state.schedules.map(sched => <option> {sched} </option>) }
