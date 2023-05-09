@@ -17,7 +17,18 @@ export default class About extends Component {
       </div>
      <div className="centered">
 	        <div className="name_title">My Schedules</div>
-            <label>Schedule Name: </label>
+
+            <div>
+                    <h5>Create Schedule</h5>
+                        <label>Schedule Name: </label>
+                                <input type = "text" name = "sch" ></input>
+                         <div>
+                        <label>Term: </label>
+                        <input type = "text" name = "sch" ></input>
+                         </div>
+                       <button onClick = { this.addCourse }>Create Schedule</button>
+                       <div class ="padsm"> </div>
+                    </div>
 
 
 

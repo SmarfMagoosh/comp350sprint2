@@ -204,17 +204,7 @@ class Home extends Component {
       <div className="Home">
         <h1 class = "pad">Scheduler Application </h1>
         <div>
-        <div>
-        <h5>Create Schedule</h5>
-            <label>Schedule Name: </label>
-                    <input type = "text" name = "sch" ></input>
-             <div>
-            <label>Term: </label>
-            <input type = "text" name = "sch" ></input>
-             </div>
-           <button onClick = { this.addCourse }>Create Schedule</button>
-           <div class ="padsm"> </div>
-        </div>
+
         <div>
 
           </div>
