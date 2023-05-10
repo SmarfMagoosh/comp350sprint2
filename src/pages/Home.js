@@ -130,10 +130,11 @@ class Home extends Component {
   }
 
   componentDidMount() {
+    console.log("there is the call");
     fetch(`http://localhost:8080/schedules?id=${this.state.id}`)
     .then(response => response.ok ? response.json() : Promise.reject(response))
     .then(data => this.setState({ schedules: data }));
-
+    
     fetch("http://localhost:8080/courses")
     .then(response => response.ok ? response.json() : Promise.reject(response))
     .then(data => this.setState({ courses: data }))

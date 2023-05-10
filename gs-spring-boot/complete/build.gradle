@@ -21,6 +21,10 @@ dependencies {
 	testImplementation('org.springframework.boot:spring-boot-starter-test')
 	// end::tests[]
 	implementation 'org.json:json:20230227'
+	implementation 'org.xerial:sqlite-jdbc:3.41.0.0'
+	implementation files('sqlite-jdbc-3.41.2.1.jar')
+	implementation 'com.google.code.gson:gson:2.8.9'
+
 }
 
 test {

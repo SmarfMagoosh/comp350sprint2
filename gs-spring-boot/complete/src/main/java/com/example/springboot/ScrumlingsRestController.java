@@ -2,6 +2,8 @@ package com.example.springboot;
 
 import org.json.JSONObject;
 import org.springframework.web.bind.annotation.*;
+
+import java.sql.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
@@ -19,34 +21,46 @@ public class ScrumlingsRestController {
     }
 
     @GetMapping("/getSchedule")
-    public Map<String, Object> getSchedule(
+    public String getSchedule(
             @RequestParam(value = "id", defaultValue = "") int id,
             @RequestParam(value = "name", defaultValue = "") String name
-            ) {
+    ) throws SQLException {
         // TODO query database
-        Map<String, ArrayList<String>> time = new HashMap<>();
-        ArrayList<String> meet = new ArrayList<>();
-        meet.add("10 AM");
-        meet.add("10:50 AM");
-        time.put("M", meet);
-        time.put("W", meet);
-        time.put("F", meet);
-        time.put("T", new ArrayList<>());
-        time.put("R", new ArrayList<>());
-        Map<String, Object> course = new HashMap<>();
-        course.put("prof", "Brian Dellinger");
-        course.put("title", "Automata Theory");
-        course.put("credits", 3);
-        course.put("term", "S21");
-        course.put("time", time);
-        course.put("code", "COMP 314 A");
-        Map<String, Object> sched = new HashMap<>();
-        ArrayList<Map<String, Object>> courses = new ArrayList<>();
-        courses.add(course);
-        sched.put("name", name);
-        sched.put("term", "F20");
-        sched.put("courses", courses);
-        return sched;
+        String query = "SELECT JSON FROM schedules WHERE name=?";
+        Connection conn = null;
+        ResultSet rs = null;
+        String ret = "";
+        PreparedStatement smt = null;
+        String list = null;
+        System.out.println("here here");
+        try{
+            // give the location of the database
+            String url = "jdbc:sqlite:schedules.db";
+            System.out.println("here here");
+            //initialize the connection
+            conn = DriverManager.getConnection(url);
+
+            //prepare the statement
+            smt = conn.prepareStatement("SELECT JSON FROM schedules WHERE id = ? AND name = ?");
+            System.out.println(id + " " + name);
+            // set parameter values
+            smt.setInt(1, 1);
+            smt.setString(2, name);
+            System.out.println(smt.toString());
+            rs = smt.executeQuery();
+            System.out.println(rs.getMetaData().getColumnCount());
+            while(rs.next()){
+                ret = rs.getString("JSON");
+                ret = ret.replace('\t', ' ');
+                ret = ret.replace("line: 1", "");
+                ret = ret.replace("line: 2", "");
+            }
+            System.out.println("here here");
+        }catch(Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        return ret;
     }
 
     @PostMapping("/saveSchedule")
