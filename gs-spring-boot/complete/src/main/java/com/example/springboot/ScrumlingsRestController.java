@@ -3,6 +3,7 @@ import java.sql.*;
 //import org.json.JSONObject;
 import org.springframework.web.bind.annotation.*;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -156,10 +157,9 @@ public class ScrumlingsRestController {
     }
 
     @PostMapping("/saveSchedule")
-    public String saveSchedule(@RequestBody Map<String, Object> schedule) {
+    public String saveSchedule(@RequestBody String schedule) {
         // TODO insert into database
-
-        return "schedule recieved";
+        return schedule;
     }
 //
 //    public static void main(String[] args) {

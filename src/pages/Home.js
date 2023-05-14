@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import "../pages/Home.css";
+import axios from "axios";
 import instance from '../component/api/axios-config';
-
+import Calendar from './../component/Calendar.js'
 const userId = 2;
 
 function equals(l1, l2) {
@@ -10,6 +11,7 @@ function equals(l1, l2) {
   }
   return l1[0] == l2[0] && l1[1] == l2[1];
 }
+
 
 function includes(list, listoflist) {
   for (let l of listoflist) {
@@ -64,6 +66,7 @@ function overlap(course1, course2) {
 
 class Schedule {
   constructor(schedObj) {
+    console.log(schedObj);
     this.name = schedObj.name;
     this.term = schedObj.term;
     this.courses = schedObj.courses;
@@ -126,6 +129,7 @@ class Home extends Component {
     this.getSchedule = this.getSchedule.bind(this);
     this.renameSchedule = this.renameSchedule.bind(this);
     this.removeCourse = this.removeCourse.bind(this);
+    this.saveSchedule = this.saveSchedule.bind(this);
   }
 
   componentDidMount() {
@@ -137,6 +141,16 @@ class Home extends Component {
     .then(response => response.ok ? response.json() : Promise.reject(response))
     .then(data => this.setState({ courses: data }))
   }
+
+  saveSchedule(event)  {
+    // the button that got clicked is even.target
+    fetch("http://localhost:8080/saveSchedule", {
+        method: "POST",
+        body: "hello world"
+        }).then(response => response.ok ? response : ":(")
+        .then(output => console.log(output))
+  }
+
 
   updatefilters(input) {
     if (input.target.name == "course search") {
@@ -200,6 +214,7 @@ class Home extends Component {
 
   render() {
     let filtCourses = this.state.courses.filter(course => this.searchedCourse(course));
+    console.log(this.state.schedule);
     return (
       <div className="Home">
         <h1 class = "pad">Scheduler Application </h1>
@@ -257,6 +272,7 @@ class Home extends Component {
               <input type = "text" defaultValue = { this.state.schedule.name } onInput = { this.renameSchedule }></input>
               <table>
           <thead>
+          <button onClick={this.saveSchedule}>Save Schedule</button>
             <tr>
               <td></td>
               <td>Code</td>
